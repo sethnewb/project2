@@ -1,0 +1,22 @@
+Rough outline of things that need to happen
+
+
+Dataset to DB
+	sqlite3 or MYSQL
+
+Flask server and API
+	API routes
+	db connection
+	HTML templates
+
+Front End
+	materialize template
+
+Visual 1
+	Average male and female athlete based on stats over time
+
+Visual 2
+	Sunburst Graph of Countries and their performance
+
+Visual 3
+	Map of Event and top performers
