@@ -1,8 +1,5 @@
-Rough outline of things that need to happen
+Rough outline of things that need to happen:
 
-
-Dataset to DB
-	sqlite3 or MYSQL
 
 Flask server and API
 	API routes
