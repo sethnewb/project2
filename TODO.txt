@@ -7,13 +7,15 @@ Flask server and API
 	HTML templates
 
 Front End
-	materialize template
+	make use of Bootstrap template
+	https://blackrockdigital.github.io/startbootstrap-resume/
 
 Visual 1
-	Average male and female athlete based on stats over time
+	Average male and female athlete based on stats over time by country
+	as a line chart first; upgrade to animated scatter if time allows
 
 Visual 2
-	Sunburst Graph of Countries and their performance
+	average age of athlete over the years
 
 Visual 3
-	Map of Event and top performers
+	map of 
