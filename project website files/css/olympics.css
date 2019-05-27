@@ -7,7 +7,7 @@
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 25px;
-  color: #80868c;
+  color: #809bb6;
 }
 
 @media (min-width: 992px) {
@@ -15,6 +15,10 @@ body {
     padding-top: 0;
     padding-left: 17rem;
   }
+}
+
+#w-100 {
+  text-align: center;
 }
 
 h1,
@@ -30,7 +34,7 @@ h6 {
 }
 
 h1 {
-  font-size: 6rem;
+  font-size: 7rem;
   line-height: 5.5rem;
 }
 
@@ -40,11 +44,11 @@ h2 {
 
 h3 {
   font-size: 2rem;
-  padding-left: 25px;
+  padding-left: 60px;
 }
 
 #csvData {
-  padding-left: 25px;
+  padding-left: 100px;
 }
 p.lead {
   font-size: 1.15rem;
@@ -70,14 +74,15 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #161461;
+  outline-color: #0c0c36;
 }
 
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
+    font-size: 18px;
     position: fixed;
-    top: 0;
+    top: -0;
     left: 0;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -86,28 +91,26 @@ p.lead {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    width: 17rem;
+    width: 19rem;
     height: 100vh;
+    background-color: #0c2742
   }
   #sideNav .navbar-brand {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    margin: auto auto 0;
-    padding: 0.5rem;
+    padding:60px;
+    padding-left:60px;
+    padding-right:40px;
   }
   #sideNav .navbar-brand .logo {
-    max-width: 10rem;
-    max-height: 10rem;
-    border: 0.3rem solid rgba(255, 255, 255, 0.2);
+    max-width: 13rem;
+    max-height: 11 rem;
   }
   #sideNav .navbar-collapse {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-align: start;
-    -ms-flex-align: start;
-    align-items: flex-start;
     -webkit-box-flex: 0;
     -ms-flex-positive: 0;
     flex-grow: 0;
