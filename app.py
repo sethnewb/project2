@@ -40,9 +40,8 @@ def age():
         query_dict[row["Year"]].append(row["Age"])
     
     clean_dict = dict(query_dict)
-
     clean_list = [{k:v} for k, v in clean_dict.items()]
-    print(jsonify(clean_list), file=sys.stderr)
+
     return jsonify(clean_list)
 
 
