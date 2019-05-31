@@ -65,13 +65,18 @@ function buildAgeGraph(gender) {
   })
 }
 
-// function for when the gender for the age graph is changed
+// connected scatter plot function- NEED to complete
+function buildConnectedScatter(build) {}
 
+// function for when the gender for the age graph is changed
 function genderChanged(gender) {
   buildAgeGraph(gender);
 }
 
-
+// function for when the build options are changed on drop down menu for althetic build over time
+function buildChanged(build) {
+  buildConnectedScatter(build);
+}
 
 
 
@@ -81,6 +86,9 @@ function genderChanged(gender) {
 function init() {
   var selectedGender = d3.select("#selGender").node().value;
   buildAgeGraph(selectedGender)
+
+  var selectedBuild = d3.select("#selBuild").node().value;
+  buildConnectedScatter(selectedBuild)
 }
 
 

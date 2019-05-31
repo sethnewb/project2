@@ -101,14 +101,22 @@
 
     <section class="resume-section p-3 p-lg-5 align-items-center" id="viz2">
       <div class="w-100">
-        <h2 class="mb-5">Visualization 2</h2>
+        <h2 class="mb-5">Changes In Olympic Athletic Build Over Time</h2>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
-            <h3 class="mb-0">Insert image here</h3>
-            <!-- <div class="subheading mb-3">Bachelor of Science</div>
-            <div>Computer Science - Web Development Track</div>
-            <p>GPA: 3.23</p> -->
+            <h3 class="mb-0">Select for the trend of interest:</h3>
+            <div class="container">
+              <t>Select Gender:  </t>
+              <select id="selBuild" onchange="buildChanged(this.value)">
+                <option value="Male">Female Height</option>
+                <option value="Female">Female Weight</option>
+                <option value="Male">Male Height</option>
+                <option value="Male">Male Weight</option>
+              </select>
+              <div class="row">
+            <div class="container-fluid" id="connected_scatter"></div>
+              </div>
           </div>
         </div>
       </div>
