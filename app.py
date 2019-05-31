@@ -14,8 +14,11 @@ app = Flask(__name__)
 #################################################
 
 # cache was stopping javascript from refreshing
+# remove before pushing to heroku
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 
+
+#  initial loading route
 @app.route("/")
 def index():
     """Return the homepage."""
@@ -24,13 +27,13 @@ def index():
 
 
 
-
-@app.route("/age")
-def age():
-    con = sqlite3.connect('project2/db/olympic_data.db')
+#  API route for Gender Age Graph
+@app.route("/age/<gender>")
+def age(gender):
+    con = sqlite3.connect('db/olympic_data.db')
 
     sql = f"""
-        SELECT * FROM yearAgeM
+        SELECT * FROM yearAge{gender[0]};
         """
     yearAvgM = pd.read_sql(sql, con)
 
