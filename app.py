@@ -24,9 +24,6 @@ def index():
     """Return the homepage."""
     return render_template("index.html")
 
-
-
-
 #  API route for Gender Age Graph
 @app.route("/age/<gender>")
 def age(gender):
@@ -47,6 +44,20 @@ def age(gender):
 
     return jsonify(clean_list)
 
+#  API route for Medals by Year/Country Route
+@app.route("/medals")
+def medals():
+
+    con = sqlite3.connect('db/olympic_data.db')
+
+    sql = """
+    SELECT * FROM medals_by_country_by_year
+    """
+
+    medal_data = pd.read_sql(sql, con)
+
+    return medal_data.to_json(orient='records')
+    
 #  API route for Connected Scatter Plot 
 @app.route("/buildAll/<build>")
 def buildAll(build):
