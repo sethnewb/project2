@@ -100,6 +100,27 @@ def medals():
 
 #     print(athletic_build_data)
 #     return jsonify(athletic_build_data)
+@app.route("/buildAll/<build>")
+def buildAll(build):
+    con = sqlite3.connect('db/olympic_data.db')
+    sql = f"""
+        SELECT * FROM athlete_build_avg;
+        """
+    athlete_build_avg = pd.read_sql(sql, con)
+    # Somehow I need to define which dropdown menu choice relates to which data choice
+    columns = ["Sport", "Year"]
+    if build == "femaleHeight":
+        columns.append("avg_height_F")
+    elif build == "femaleWeight":
+        columns.append("avg_weight_F")
+    elif build == "maleHeight":
+        columns.append("avg_height_M")
+    else: 
+        columns.append("avg_weight_M")
+
+    athlete_build_avg =athlete_build_avg[columns]
+
+    return athlete_build_avg.to_json(orient = 'records')
 
 
 if __name__ == "__main__":

@@ -118,10 +118,10 @@
             <div class="container">
               <t>Select Athletic Build Characteristic:  </t>
               <select id="selBuild" onchange="buildChanged(this.value)">
-                <option value="Male">Female Height</option>
-                <option value="Female">Female Weight</option>
-                <option value="Male">Male Height</option>
-                <option value="Male">Male Weight</option>
+                <option value="femaleHeight">Female Height</option>
+                <option value="femaleWeight">Female Weight</option>
+                <option value="maleHeight">Male Height</option>
+                <option value="maleWeight">Male Weight</option>
               </select>
               <div class="row">
             <div class="container-fluid" id="connected_scatter"></div>
@@ -176,9 +176,10 @@
 
   <!-- Plugin JavaScript -->
   <script src="{{ url_for('static', filename='vendor/jquery-easing/jquery.easing.js') }}"></script>
-
+  
   <!-- Custom scripts for this template -->
   <script src="{{ url_for('static', filename='resume.js') }}"></script>
+  <script src="{{ url_for('static', filename='connectedScatter.js') }}"></script>
   <script src="{{ url_for('static', filename='app.js') }}"></script>
 
 </body>
