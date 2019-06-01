@@ -89,6 +89,7 @@ function init() {
 
   var selectedBuild = d3.select("#selBuild").node().value;
   buildConnectedScatter(selectedBuild)
+
 }
 
 
