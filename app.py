@@ -57,6 +57,40 @@ def medals():
     medal_data = pd.read_sql(sql, con)
 
     return medal_data.to_json(orient='records')
+    
+#  API route for Connected Scatter Plot 
+@app.route("/buildAll/<build>")
+def buildAll(build):
+    con = sqlite3.connect('db/olympic_data.db')
+    # ?? calling data from table in db, but does {} refer to drop down?
+    sql = f"""
+        SELECT * FROM athlete_build_avg;
+        """
+    athlete_build_avg = pd.read_sql(sql, con)
+    # Somehow I need to define which dropdown menu choice relates to which data choice
+    sel = [
+        athlete_build_avg.Sport,
+        athlete_build_avg.Year,
+        athlete_build_avg.avg_height_M,
+        athlete_build_avg.avg_weight_M,
+        athlete_build_avg.avg_height_F,
+        athlete_build_avg.avg_weight_F
+    ]
+    
+    results = db.session.query(*sel).filter(athlete_build_avg.build == build).all()
+    
+    # Create dictionary for infor from dropdown menu
+    athletic_build_data = {}
+    for result in results:
+        athlete_build_avg["Sport"] = result[0]
+        athlete_build_avg["Year"] = result[1]
+        athlete_build_avg["avg_height_M"] = result[2]
+        athlete_build_avg["avg_weight_M"] = result[3]
+        athlete_build_avg["avg_height_F"] = result[4]
+        athlete_build_avg["avg_weight_F"] = result[5]
+
+    print(athletic_build_data)
+    return jsonify(athletic_build_data)
 
 
 if __name__ == "__main__":
