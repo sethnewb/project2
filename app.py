@@ -52,16 +52,11 @@ def age(gender):
 @app.route("/medals")
 def medals():
 
-
-    print("test Medals x2", file=sys.stderr)
-
     con = sqlite3.connect('db/olympic_data.db')
 
     sql = """
     SELECT * FROM medals_by_country_by_year
     """
-
-    print("test", file=sys.stderr)
 
     medal_data = pd.read_sql(sql, con)
 
@@ -100,6 +95,7 @@ def medals():
 
 #     print(athletic_build_data)
 #     return jsonify(athletic_build_data)
+
 @app.route("/buildAll/<build>")
 def buildAll(build):
     con = sqlite3.connect('db/olympic_data.db')

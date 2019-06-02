@@ -1,53 +1,120 @@
-// Choropleth World Olympic Medal Map using Plotly
+//////////////////////////////////////////////
+// Scatter Plot - Medals by Country by Year //
+//////////////////////////////////////////////
 
-console.log("Outside d3 function")
+d3.json("/medals").then( data => {
+  
+  // Console log the data to see what it looks like
+  console.log(data);
 
-d3.json('/medals').then( rows => {
+  // Creating a lookup table, sorting by year and country
+  var lookup = {};
+  function getData(year, Country) {
+    var byYear, trace;
+    if (!(byYear = lookup[year])) {;
+      byYear = lookup[year] = {};
+    }
 
-  function unpack(rows, key) {
-      return rows.map(function(row) { return row[key]; })
+	 // If a container for the year and country doesn't exist, create one
+    if (!(trace = byYear[Country])) {
+      trace = byYear[Country] = {
+        locations: [],
+        z: [],
+        text: []
+      };
+    }
+    return trace;
   }
 
-  var frames = []
-  var z = unpack(rows, 'Medal')
-  var locations = unpack(rows, 'NOC')
-
-  // Number of unique years
-  var n = 35;
-  // Number of unique countries
-  var j = 143;
-  // Counter
-  var k = 0;
-  // First year
-  var num = 1895
-
-  for (var i = 0; i < n; i++) {
-    k++
-    num++
-    j = 143
-    j = j*k
-    frames[i] = {data: [{z: [], locations: []}], name: num}
-    frames[i].data[0].z = z.slice(0, j);
-    frames[i].data[0].locations = locations.slice(0, j);
+  // Loop through the data and append data to each trace
+  for (var i = 0; i < data.length; i++) {
+    var datum = data[i];
+    var trace = getData(datum.Year, datum.Country);
+    trace.locations.push(datum.Country);
+    trace.z.push(datum.Medal);
+    trace.text.push(datum.Year);
   }
 
-var data = [{
+  // Getting unique number of years
+  var years = Object.keys(lookup);
+
+  // Countries repeat every year, whether or not they have data...can grab first use as representative list of country names
+  var firstYear = lookup[years[0]];
+  var countries = Object.keys(firstYear);
+
+  // Creating a trace for each country
+  var traces = [];
+  for (i = 0; i < countries.length; i++) {
+    var data = firstYear[countries[i]];
+
+	 // Creating a single trace here to which the frames will pass data for ecah year. Slice the arrays to ensure we never write any new data into our lookup table
+    traces.push({
+      name: countries[i],
+      locations: data.locations.slice(),
+      z: data.z.slice(),
+      text: `Year: ${data.text.slice()}`,
+      // Instead of using country code ('ISO-3'), we will use 'country names'
+      locationmode: "country names",
+      // Identify the type of the viz
       type: 'choropleth',
-      locationmode: 'ISO-3',
-      locations: frames[0].data[0].locations,
-      z: frames[0].data[0].z,
-      text: frames[0].data[0].locations,
-      zauto: false,
+      autocolorscale: 1,
+      // Setting colorbar scale
       zmin: 0,
-      zmax: 5000
-}];
+      zmax: 5000,
+      zauto: false,
+      // Adjusting the colorbar on the right of the viz
+      colorbar: {
+        lenmode: 'fraction',
+        len: 0.75,
+        title: "Medal Count",
+        fontsize: 10,
+        titlefont: {
+          size: 10
+        }
+      }
+    });
+  }
 
-var layout = {
-    title: 'Incremental Olympic Medals Won by Country (1896-2016) (7 Steps)',
-    height: 600,
+  // Create a frame for each year
+  var frames = [];
+  for (i = 0; i < years.length; i++) {
+    frames.push({
+      name: years[i],
+      data: countries.map(function (country) {
+        return getData(years[i], country);
+      })
+    })
+  }
+
+  // Test what the frames look like
+  console.log(frames);
+
+  // Create sliders - one for each frame
+  var sliderSteps = [];
+  for (i = 0; i < years.length; i++) {
+    sliderSteps.push({
+      method: 'animate',
+      label: years[i],
+      args: [[years[i]], {
+        mode: 'immediate',
+        transition: {duration: 1},
+        frame: {duration: 1, redraw: false},
+      }]
+    });
+  }
+
+  // Define our layout properties
+  var layout = {
+    title: 'Olympic Medals By Country By Year (1896-2016)',
     width: 1000,
+    height: 600,
+    padding: {
+      l:0,
+      r:0,
+      b:0,
+      t:0
+    },
     geo:{
-      //  scope: 'usa',
        countrycolor: 'rgb(255, 255, 255)',
        showland: true,
        landcolor: 'rgb(217, 217, 217)',
@@ -57,140 +124,54 @@ var layout = {
        lonaxis: {},
        lataxis: {}
     },
+    hovermode: 'closest',
     updatemenus: [{
-      x: 0.1,
+      x: 0,
       y: 0,
-      yanchor: "top",
-      xanchor: "right",
+      yanchor: 'top',
+      xanchor: 'left',
       showactive: false,
-      direction: "left",
-      type: "buttons",
-      pad: {"t": 87, "r": 10},
+      direction: 'left',
+      type: 'buttons',
+      pad: {t: 87, r: 10},
       buttons: [{
-        method: "animate",
+        method: 'animate',
         args: [null, {
+          mode: 'immediate',
           fromcurrent: true,
-          transition: {
-            duration: 200,
-          },
-          frame: {
-            duration: 500,
-            redraw: false
-          }
+          transition: {duration: 300},
+          frame: {duration: 500, redraw: true}
         }],
-        label: "Play"
+        label: 'Play'
       }, {
-        method: "animate",
-        args: [
-          [null],
-          {
-            mode: "immediate",
-            transition: {
-              duration: 0
-            },
-            frame: {
-              duration: 0,
-              redraw: false
-            }
-          }
-        ],
-        label: "Pause"
+        method: 'animate',
+        args: [[null], {
+          mode: 'immediate',
+          transition: {duration: 0},
+          frame: {duration: 0, redraw: true}
+        }],
+        label: 'Pause'
       }]
     }],
     sliders: [{
-      active: 0,
-      steps: [{
-        label: "1896",
-        method: "animate",
-        args: [["1896"], {
-            mode: "immediate",
-            transition: {duration: 300},
-            frame: {duration: 300, "redraw": false}
-          }
-        ]
-      },{
-        label: "1924",
-        method: "animate",
-        args: [["1924"], {
-            mode: "immediate",
-            transition: {duration: 300},
-            frame: {duration: 300, "redraw": false}
-          }
-        ]
-      }, {
-        label: "1952",
-        method: "animate",
-        args: [["1952"], {
-            mode: "immediate",
-            transition: {duration: 300},
-            frame: {duration: 300, "redraw": false}
-          }
-        ]
-      }, {
-        label: "1976",
-        method: "animate",
-        args: [["1976"], {
-            mode: "immediate",
-            transition: {duration: 300},
-            frame: {duration: 300, "redraw": false}
-          }
-        ]
-      }, {
-        label: "2000",
-        method: "animate",
-        args: [["2000"], {
-            mode: "immediate",
-            transition: {duration: 300},
-            frame: {duration: 300, "redraw": false}
-          }
-        ]
-      }, {
-        label: "2008",
-        method: "animate",
-        args: [["2008"], {
-            mode: "immediate",
-            transition: {duration: 300},
-            frame: {duration: 300, "redraw": false}
-          }
-        ]
-      }, {
-        label: "2016",
-        method: "animate",
-        args: [["2016"], {
-            mode: "immediate",
-            transition: {duration: 300},
-            frame: {duration: 300, "redraw": false}
-          }
-        ]
-      }],
-      x: 0.1,
-      len: 0.9,
-      xanchor: "left",
-      y: 0,
-      yanchor: "top",
-      pad: {t: 50, b: 10},
+      pad: {l: 130, t: 55},
       currentvalue: {
         visible: true,
-        prefix: "Year:",
-        xanchor: "right",
-        font: {
-          size: 20,
-          color: "#666"
-        }
+        prefix: 'Year:',
+        xanchor: 'right',
+        font: {size: 20, color: '#666'}
       },
-      transition: {
-        duration: 300,
-        easing: "cubic-in-out"
-      }
+      steps: sliderSteps
     }]
-};
 
-Plotly.plot(choropleth, data, layout, {displayModeBar: false}).then(function() {
-    Plotly.addFrames(choropleth, frames);
+  };
+
+  // Create the plot:
+  Plotly.plot('choropleth', {
+    data: traces,
+    layout: layout,
+    frames: frames,
+    // Trying to remove the Plotly Display Bar...doesn't seem to be working
+    displayModeBar: false
   });
 });
-
-// Test route
-// d3.json('/medals').then( response => {
-//   console.log(response);
-// })
