@@ -1,9 +1,12 @@
 // scatter plot function for athletic build all sports
 function buildConnectedScatter(build) {
   console.log(`/buildAll/${build}`);
-  d3.json(`/buildAll/${build}`).then(response => {
+  var athleteBuild = `/buildAll/${build}`;
+  d3.selectAll("svg > *").remove();
+  d3.json(athleteBuild).then(function(bodyData) {
     // set the dimensions and margins of the graph
-    console.log("buildAll json is working!") 
+    console.log("bodyData") 
+    console.log(bodyData) 
     var margin = {top: 10, right: 30, bottom: 30, left: 60},
          width = 460 - margin.left - margin.right,
          height = 400 - margin.top - margin.bottom;
@@ -15,63 +18,79 @@ function buildConnectedScatter(build) {
          .append("g")
              .attr("transform",
                  "translate(" + margin.left + "," + margin.top + ")");
-     //Read the data
-     response.forEach(el => {
-        console.log(el); 
-        // Object.entries(el).forEach(function([year, yBuildData]) { 
-        //     var row = el.append("p");
-        //     row.text(`${year}: ${yBuildData}`);
-        //   }) 
-     }) 
+
+
+    //Read the data
+    
     // Add X axis --> year
+    var parseTime = d3.timeParse("%Y");
+    bodyData.forEach(function(d) {
+        d.date = parseTime(d.Year);
+        console.log(d.date);
+        // d.close = +d.close;
+    });
     var x = d3.scaleTime()
-      .domain(d3.extent(el, el => el.yBuildData))
+      .domain([bodyData[0].date, bodyData[bodyData.length-1].date])
       .range([ 0, width ]);
     svg.append("g")
       .attr("transform", "translate(0," + height + ")")
-      .call(d3.axisBottom(x));
+      .call(d3.axisBottom(x)
+            .tickFormat(d3.timeFormat("%Y")));
     // Add Y axis
+    var minHeight =100000;
+    var maxHeight = -1;
+    bodyData.forEach(function(d) {
+      if (d.avg_height > maxHeight) {
+        maxHeight = d.avg_height;
+      }
+      if (d.avg_height < minHeight) {
+        minHeight = d.avg_height;
+      }
+    });
+    console.log([minHeight, maxHeight]);
+
     var y = d3.scaleLinear()
-      .domain(d3.extent(data, data => data.year))
+      .domain([minHeight-0.1*minHeight, maxHeight+0.1*maxHeight])
       .range([ height, 0 ]);
-    svg.append("g")
+
+      svg.append("g")
       .call(d3.axisLeft(y));
     // Add the line
     svg.append("path")
-      .datum(data)
+      .data(bodyData)
       .attr("fill", "none")
       .attr("stroke", "#9eb6c1")
-      .attr("stroke-width", 1.5)
+      .attr("stroke-width", 30)
       .attr("d", d3.line()
-          .x(function(d) { return x(d.year) })
-          .y(function(d) { return y(d.yBuildData) })
-          )
-      .on("mouseover", function(d) {   
-          d3.select(this).attr("stroke-width", 3)
-              .style("stroke", "#63031a");
-          div.transition()        
-              .duration(70)      
-              .style("opacity", .7);      
-          div .html(formatTime(d.date) + "<br/>"  + d.close)  
-              .style("left", (d3.event.pageX) + "px")     
-              .style("top", (d3.event.pageY - 28) + "px");    
-          })                  
-      .on("mouseout", function(d) {       
-          d3.select(this).attr("stroke-width", 1.5)
-              .style("stroke", "#9eb6c1");
-          div.transition()        
-              .duration(200)      
-              .style("opacity", 0);   
-      });
+          .x(function(d) { return x(d.date) })
+          .y(function(d) { return y(d.avg_height) })
+          );
+      // .on("mouseover", function(d) {   
+      //     d3.select(this).attr("stroke-width", 30)
+      //         .style("stroke", "#63031a");
+      //     div.transition()        
+      //         .duration(70)      
+      //         .style("opacity", .7);      
+      //     div .html(formatTime(d.date) + "<br/>"  + d.close)  
+      //         .style("left", (d3.event.pageX) + "px")     
+      //         .style("top", (d3.event.pageY - 28) + "px");    
+      //     })                  
+      // .on("mouseout", function(d) {       
+      //     d3.select(this).attr("stroke-width", 1.5)
+      //         .style("stroke", "#9eb6c1");
+      //     div.transition()        
+      //         .duration(200)      
+      //         .style("opacity", 0);   
+      // });
     // Add the points
     svg
       .append("g")
       .selectAll("dot")
-      .data(data)
+      .data(bodyData)
       .enter()
       .append("circle")
-          .attr("cx", function(d) { return x(d.year) } )
-          .attr("cy", function(d) { return y(d.yBuildData) } )
+          .attr("cx", function(d) { return x(d.date) } )
+          .attr("cy", function(d) { return y(d.avg_height) } )
           .attr("r", 2)
           .attr("fill", "#9eb6c1")
   })

@@ -50,7 +50,7 @@ def medals():
 
     con = sqlite3.connect('db/olympic_data.db')
 
-    sql = """
+    sql = f"""
     SELECT * FROM medals_by_country_by_year
     """
 
@@ -63,23 +63,34 @@ def medals():
 def buildAll(build):
     con = sqlite3.connect('db/olympic_data.db')
     sql = f"""
-        SELECT * FROM athlete_build_avg;
+        SELECT * FROM male_athlete_mean_df_waterpolo;
         """
-    athlete_build_avg = pd.read_sql(sql, con)
-    # Somehow I need to define which dropdown menu choice relates to which data choice
-    columns = ["Sport", "Year"]
-    if build == "femaleHeight":
-        columns.append("avg_height_F")
-    elif build == "femaleWeight":
-        columns.append("avg_weight_F")
-    elif build == "maleHeight":
-        columns.append("avg_height_M")
-    else: 
-        columns.append("avg_weight_M")
+    male_waterpolo = pd.read_sql(sql, con)
+    return male_waterpolo.to_json(orient='records')
 
-    athlete_build_avg =athlete_build_avg[columns]
 
-    return athlete_build_avg.to_json(orient = 'records')
+# @app.route("/buildAll/<build>")
+# def buildAll(build):
+#     con = sqlite3.connect('db/olympic_data.db')
+#     sql = f"""
+#         SELECT * FROM athlete_build_avg_{build[0]};
+#         """
+#     athlete_build_avg = pd.read_sql(sql, con)
+#     # Define which data to pull with each dropdown menu choice
+#     columns = ["Sport", "Year"]
+#     if build == "femaleHeight":
+#         columns.append("avg_height_F")
+#     elif build == "femaleWeight":
+#         columns.append("avg_weight_F")
+#     elif build == "maleHeight":
+#         columns.append("avg_height_M")
+#     else: #maleWeight
+#         columns.append("avg_weight_M")
+#     #Drops to database down to just the three columns in this list, columns
+#     athlete_build_avg = athlete_build_avg[columns]
+#     # Rename columns to that last column is called "Build" no matter which data is called
+#     athlete_build_avg.columns = ["Sport", "Year", "Build"]
+#     return athlete_build_avg.to_json(orient = 'records')
 
 
 if __name__ == "__main__":
