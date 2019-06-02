@@ -17,8 +17,16 @@
   <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
   <link rel="stylesheet" href="{{ url_for('static', filename='vendor/fontawesome-free/css/all.min.css') }}">
+
   <!-- Custom styles for this template -->
   <link rel="stylesheet" href="{{ url_for('static', filename='css/olympics.css') }}">
+
+  <!-- Plotly and choropleth libraries -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script type="text/javascript" href="{{ url_for('static', filename='choropleth.js') }}"></script>
+
+  <!-- This script holds the D3 v4 framework/library necessary -->
+  <script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
 
 </head>
 
@@ -91,7 +99,7 @@
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
 
-        <div class="container-fluid" id="choropleth">
+        <div id="choropleth" height=600px width=800px>
           
         </div>
       </div>
@@ -173,8 +181,6 @@
   <script src="{{ url_for('static', filename='resume.js') }}"></script>
   <script src="{{ url_for('static', filename='connectedScatter.js') }}"></script>
   <script src="{{ url_for('static', filename='app.js') }}"></script>
-
-
 
 </body>
 

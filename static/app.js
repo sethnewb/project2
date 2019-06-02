@@ -1,7 +1,9 @@
 // Choropleth World Olympic Medal Map using Plotly
 
- Plotly.d3.json('/medals'), function(err, rows){
-  console.log("Hello!");
+console.log("Outside d3 function")
+
+d3.json('/medals').then( rows => {
+
   function unpack(rows, key) {
       return rows.map(function(row) { return row[key]; })
   }
@@ -42,6 +44,8 @@ var data = [{
 
 var layout = {
     title: 'Incremental Olympic Medals Won by Country (1896-2016) (7 Steps)',
+    height: 600,
+    width: 1000,
     geo:{
       //  scope: 'usa',
        countrycolor: 'rgb(255, 255, 255)',
@@ -182,6 +186,11 @@ var layout = {
 };
 
 Plotly.plot(choropleth, data, layout, {displayModeBar: false}).then(function() {
-    Plotly.addFrames('choropleth', frames);
+    Plotly.addFrames(choropleth, frames);
   });
-};
+});
+
+// Test route
+// d3.json('/medals').then( response => {
+//   console.log(response);
+// })
