@@ -54,56 +54,56 @@ Year,Country,Medal
 1972,Algeria ,0
 1976,Algeria ,0
 1980,Algeria ,0
-1984,Algeria ,0
-1988,Algeria ,0
-1992,Algeria ,2
-1994,Algeria ,2
-1996,Algeria ,5
-1998,Algeria ,5
-2000,Algeria ,10
-2002,Algeria ,10
-2004,Algeria ,10
-2006,Algeria ,10
-2008,Algeria ,12
-2010,Algeria ,12
-2012,Algeria ,13
-2014,Algeria ,13
-2016,Algeria ,15
+1984,Algeria ,2
+1988,Algeria ,2
+1992,Algeria ,4
+1994,Algeria ,4
+1996,Algeria ,7
+1998,Algeria ,7
+2000,Algeria ,12
+2002,Algeria ,12
+2004,Algeria ,12
+2006,Algeria ,12
+2008,Algeria ,14
+2010,Algeria ,14
+2012,Algeria ,15
+2014,Algeria ,15
+2016,Algeria ,17
 1896,Australasia,0
 1900,Australasia,0
 1904,Australasia,0
 1906,Australasia,0
-1908,Australasia,3
-1912,Australasia,4
-1920,Australasia,4
-1924,Australasia,4
-1928,Australasia,4
-1932,Australasia,4
-1936,Australasia,4
-1948,Australasia,4
-1952,Australasia,4
-1956,Australasia,4
-1960,Australasia,4
-1964,Australasia,4
-1968,Australasia,4
-1972,Australasia,4
-1976,Australasia,4
-1980,Australasia,4
-1984,Australasia,4
-1988,Australasia,4
-1992,Australasia,4
-1994,Australasia,4
-1996,Australasia,4
-1998,Australasia,4
-2000,Australasia,4
-2002,Australasia,4
-2004,Australasia,4
-2006,Australasia,4
-2008,Australasia,4
-2010,Australasia,4
-2012,Australasia,4
-2014,Australasia,4
-2016,Australasia,4
+1908,Australasia,19
+1912,Australasia,29
+1920,Australasia,29
+1924,Australasia,29
+1928,Australasia,29
+1932,Australasia,29
+1936,Australasia,29
+1948,Australasia,29
+1952,Australasia,29
+1956,Australasia,29
+1960,Australasia,29
+1964,Australasia,29
+1968,Australasia,29
+1972,Australasia,29
+1976,Australasia,29
+1980,Australasia,29
+1984,Australasia,29
+1988,Australasia,29
+1992,Australasia,29
+1994,Australasia,29
+1996,Australasia,29
+1998,Australasia,29
+2000,Australasia,29
+2002,Australasia,29
+2004,Australasia,29
+2006,Australasia,29
+2008,Australasia,29
+2010,Australasia,29
+2012,Australasia,29
+2014,Australasia,29
+2016,Australasia,29
 1896,Argentina ,0
 1900,Argentina ,0
 1904,Argentina ,0
@@ -111,34 +111,34 @@ Year,Country,Medal
 1908,Argentina ,0
 1912,Argentina ,0
 1920,Argentina ,0
-1924,Argentina ,2
-1928,Argentina ,9
-1932,Argentina ,10
-1936,Argentina ,10
-1948,Argentina ,13
-1952,Argentina ,15
-1956,Argentina ,16
-1960,Argentina ,20
-1964,Argentina ,21
-1968,Argentina ,23
-1972,Argentina ,24
-1976,Argentina ,24
-1980,Argentina ,24
-1984,Argentina ,24
-1988,Argentina ,37
-1992,Argentina ,39
-1994,Argentina ,39
-1996,Argentina ,59
-1998,Argentina ,59
-2000,Argentina ,79
-2002,Argentina ,79
-2004,Argentina ,128
-2006,Argentina ,128
-2008,Argentina ,179
-2010,Argentina ,179
-2012,Argentina ,198
-2014,Argentina ,198
-2016,Argentina ,220
+1924,Argentina ,10
+1928,Argentina ,36
+1932,Argentina ,40
+1936,Argentina ,51
+1948,Argentina ,62
+1952,Argentina ,68
+1956,Argentina ,70
+1960,Argentina ,74
+1964,Argentina ,75
+1968,Argentina ,77
+1972,Argentina ,78
+1976,Argentina ,78
+1980,Argentina ,78
+1984,Argentina ,78
+1988,Argentina ,91
+1992,Argentina ,93
+1994,Argentina ,93
+1996,Argentina ,113
+1998,Argentina ,113
+2000,Argentina ,133
+2002,Argentina ,133
+2004,Argentina ,182
+2006,Argentina ,182
+2008,Argentina ,233
+2010,Argentina ,233
+2012,Argentina ,252
+2014,Argentina ,252
+2016,Argentina ,274
 1896,Armenia ,0
 1900,Armenia ,0
 1904,Armenia ,0
@@ -169,81 +169,81 @@ Year,Country,Medal
 2002,Armenia ,3
 2004,Armenia ,3
 2006,Armenia ,3
-2008,Armenia ,8
-2010,Armenia ,8
-2012,Armenia ,11
-2014,Armenia ,11
-2016,Armenia ,15
-1896,Australia ,0
-1900,Australia ,4
-1904,Australia ,4
-1906,Australia ,4
-1908,Australia ,4
-1912,Australia ,4
-1920,Australia ,6
-1924,Australia ,9
-1928,Australia ,10
-1932,Australia ,12
-1936,Australia ,13
-1948,Australia ,16
-1952,Australia ,20
-1956,Australia ,53
-1960,Australia ,95
-1964,Australia ,132
-1968,Australia ,183
-1972,Australia ,203
-1976,Australia ,225
-1980,Australia ,238
-1984,Australia ,290
-1988,Australia ,325
-1992,Australia ,377
-1994,Australia ,380
-1996,Australia ,510
-1998,Australia ,511
-2000,Australia ,694
-2002,Australia ,696
-2004,Australia ,853
-2006,Australia ,855
-2008,Australia ,1004
-2010,Australia ,1007
-2012,Australia ,1121
-2014,Australia ,1124
-2016,Australia ,1206
-1896,Austria ,0
-1900,Austria ,0
-1904,Austria ,0
-1906,Austria ,2
-1908,Austria ,2
-1912,Austria ,2
-1920,Austria ,2
-1924,Austria ,2
-1928,Austria ,2
-1932,Austria ,2
-1936,Austria ,2
-1948,Austria ,4
-1952,Austria ,5
-1956,Austria ,9
-1960,Austria ,12
-1964,Austria ,23
-1968,Austria ,43
-1972,Austria ,51
-1976,Austria ,57
-1980,Austria ,69
-1984,Austria ,73
-1988,Austria ,84
-1992,Austria ,118
-1994,Austria ,130
-1996,Austria ,133
-1998,Austria ,153
-2000,Austria ,157
-2002,Austria ,177
-2004,Austria ,185
-2006,Austria ,215
-2008,Austria ,218
-2010,Austria ,244
-2012,Austria ,244
-2014,Austria ,271
-2016,Austria ,273
+2008,Armenia ,9
+2010,Armenia ,9
+2012,Armenia ,12
+2014,Armenia ,12
+2016,Armenia ,16
+1896,Australia ,3
+1900,Australia ,9
+1904,Australia ,13
+1906,Australia ,16
+1908,Australia ,16
+1912,Australia ,16
+1920,Australia ,23
+1924,Australia ,34
+1928,Australia ,38
+1932,Australia ,43
+1936,Australia ,44
+1948,Australia ,60
+1952,Australia ,80
+1956,Australia ,147
+1960,Australia ,193
+1964,Australia ,237
+1968,Australia ,288
+1972,Australia ,308
+1976,Australia ,331
+1980,Australia ,344
+1984,Australia ,396
+1988,Australia ,431
+1992,Australia ,488
+1994,Australia ,492
+1996,Australia ,624
+1998,Australia ,625
+2000,Australia ,808
+2002,Australia ,810
+2004,Australia ,967
+2006,Australia ,969
+2008,Australia ,1118
+2010,Australia ,1121
+2012,Australia ,1235
+2014,Australia ,1238
+2016,Australia ,1320
+1896,Austria ,5
+1900,Austria ,11
+1904,Austria ,15
+1906,Austria ,24
+1908,Austria ,25
+1912,Austria ,39
+1920,Austria ,39
+1924,Austria ,47
+1928,Austria ,58
+1932,Austria ,65
+1936,Austria ,125
+1948,Austria ,141
+1952,Austria ,152
+1956,Austria ,168
+1960,Austria ,177
+1964,Austria ,194
+1968,Austria ,214
+1972,Austria ,222
+1976,Austria ,230
+1980,Austria ,243
+1984,Austria ,247
+1988,Austria ,260
+1992,Austria ,295
+1994,Austria ,307
+1996,Austria ,310
+1998,Austria ,330
+2000,Austria ,334
+2002,Austria ,354
+2004,Austria ,362
+2006,Austria ,392
+2008,Austria ,395
+2010,Austria ,421
+2012,Austria ,421
+2014,Austria ,448
+2016,Austria ,450
 1896,Azerbaijan ,0
 1900,Azerbaijan ,0
 1904,Azerbaijan ,0
@@ -385,40 +385,40 @@ Year,Country,Medal
 2014,Burundi ,1
 2016,Burundi ,2
 1896,Belgium ,0
-1900,Belgium ,0
-1904,Belgium ,0
-1906,Belgium ,0
-1908,Belgium ,1
-1912,Belgium ,1
-1920,Belgium ,7
-1924,Belgium ,8
-1928,Belgium ,8
-1932,Belgium ,8
-1936,Belgium ,8
-1948,Belgium ,9
-1952,Belgium ,9
-1956,Belgium ,11
-1960,Belgium ,15
-1964,Belgium ,18
-1968,Belgium ,21
-1972,Belgium ,23
-1976,Belgium ,32
-1980,Belgium ,33
-1984,Belgium ,38
-1988,Belgium ,40
-1992,Belgium ,43
-1994,Belgium ,43
-1996,Belgium ,49
-1998,Belgium ,50
-2000,Belgium ,57
-2002,Belgium ,57
-2004,Belgium ,60
-2006,Belgium ,60
-2008,Belgium ,65
-2010,Belgium ,65
-2012,Belgium ,68
-2014,Belgium ,68
-2016,Belgium ,89
+1900,Belgium ,43
+1904,Belgium ,43
+1906,Belgium ,54
+1908,Belgium ,87
+1912,Belgium ,106
+1920,Belgium ,294
+1924,Belgium ,338
+1928,Belgium ,344
+1932,Belgium ,345
+1936,Belgium ,359
+1948,Belgium ,380
+1952,Belgium ,388
+1956,Belgium ,390
+1960,Belgium ,394
+1964,Belgium ,397
+1968,Belgium ,400
+1972,Belgium ,402
+1976,Belgium ,411
+1980,Belgium ,412
+1984,Belgium ,417
+1988,Belgium ,419
+1992,Belgium ,422
+1994,Belgium ,422
+1996,Belgium ,428
+1998,Belgium ,429
+2000,Belgium ,436
+2002,Belgium ,436
+2004,Belgium ,439
+2006,Belgium ,439
+2008,Belgium ,444
+2010,Belgium ,444
+2012,Belgium ,447
+2014,Belgium ,447
+2016,Belgium ,468
 1896,Bermuda,0
 1900,Bermuda,0
 1904,Bermuda,0
@@ -478,17 +478,17 @@ Year,Country,Medal
 1988,Belarus ,0
 1992,Belarus ,0
 1994,Belarus ,2
-1996,Belarus ,20
-1998,Belarus ,22
-2000,Belarus ,44
-2002,Belarus ,45
-2004,Belarus ,60
-2006,Belarus ,61
-2008,Belarus ,90
-2010,Belarus ,93
-2012,Belarus ,113
-2014,Belarus ,119
-2016,Belarus ,131
+1996,Belarus ,25
+1998,Belarus ,27
+2000,Belarus ,49
+2002,Belarus ,50
+2004,Belarus ,65
+2006,Belarus ,66
+2008,Belarus ,95
+2010,Belarus ,98
+2012,Belarus ,121
+2014,Belarus ,127
+2016,Belarus ,139
 1896,Botswana ,0
 1900,Botswana ,0
 1904,Botswana ,0
@@ -530,35 +530,35 @@ Year,Country,Medal
 1906,Brazil ,0
 1908,Brazil ,0
 1912,Brazil ,0
-1920,Brazil ,0
-1924,Brazil ,0
-1928,Brazil ,0
-1932,Brazil ,0
-1936,Brazil ,0
-1948,Brazil ,2
-1952,Brazil ,4
-1956,Brazil ,5
-1960,Brazil ,13
-1964,Brazil ,25
-1968,Brazil ,29
-1972,Brazil ,31
-1976,Brazil ,34
-1980,Brazil ,43
-1984,Brazil ,75
-1988,Brazil ,98
-1992,Brazil ,111
-1994,Brazil ,111
-1996,Brazil ,173
-1998,Brazil ,173
-2000,Brazil ,221
-2002,Brazil ,221
-2004,Brazil ,261
-2006,Brazil ,261
-2008,Brazil ,339
-2010,Brazil ,339
-2012,Brazil ,397
-2014,Brazil ,397
-2016,Brazil ,447
+1920,Brazil ,7
+1924,Brazil ,7
+1928,Brazil ,7
+1932,Brazil ,7
+1936,Brazil ,7
+1948,Brazil ,17
+1952,Brazil ,20
+1956,Brazil ,21
+1960,Brazil ,34
+1964,Brazil ,46
+1968,Brazil ,50
+1972,Brazil ,52
+1976,Brazil ,55
+1980,Brazil ,64
+1984,Brazil ,100
+1988,Brazil ,123
+1992,Brazil ,137
+1994,Brazil ,137
+1996,Brazil ,200
+1998,Brazil ,200
+2000,Brazil ,248
+2002,Brazil ,248
+2004,Brazil ,288
+2006,Brazil ,288
+2008,Brazil ,366
+2010,Brazil ,366
+2012,Brazil ,425
+2014,Brazil ,425
+2016,Brazil ,475
 1896,Bahrain ,0
 1900,Bahrain ,0
 1904,Bahrain ,0
@@ -606,64 +606,64 @@ Year,Country,Medal
 1932,Bulgaria ,0
 1936,Bulgaria ,0
 1948,Bulgaria ,0
-1952,Bulgaria ,0
-1956,Bulgaria ,7
-1960,Bulgaria ,14
-1964,Bulgaria ,23
-1968,Bulgaria ,49
-1972,Bulgaria ,71
-1976,Bulgaria ,110
-1980,Bulgaria ,200
-1984,Bulgaria ,200
-1988,Bulgaria ,241
-1992,Bulgaria ,258
-1994,Bulgaria ,258
-1996,Bulgaria ,279
-1998,Bulgaria ,280
-2000,Bulgaria ,293
-2002,Bulgaria ,296
-2004,Bulgaria ,313
-2006,Bulgaria ,314
-2008,Bulgaria ,319
-2010,Bulgaria ,319
-2012,Bulgaria ,321
-2014,Bulgaria ,321
-2016,Bulgaria ,328
+1952,Bulgaria ,1
+1956,Bulgaria ,19
+1960,Bulgaria ,26
+1964,Bulgaria ,36
+1968,Bulgaria ,62
+1972,Bulgaria ,84
+1976,Bulgaria ,123
+1980,Bulgaria ,214
+1984,Bulgaria ,214
+1988,Bulgaria ,255
+1992,Bulgaria ,272
+1994,Bulgaria ,272
+1996,Bulgaria ,293
+1998,Bulgaria ,294
+2000,Bulgaria ,307
+2002,Bulgaria ,310
+2004,Bulgaria ,327
+2006,Bulgaria ,328
+2008,Bulgaria ,333
+2010,Bulgaria ,333
+2012,Bulgaria ,335
+2014,Bulgaria ,335
+2016,Bulgaria ,342
 1896,Canada ,0
 1900,Canada ,2
-1904,Canada ,5
-1906,Canada ,6
-1908,Canada ,17
-1912,Canada ,18
-1920,Canada ,29
-1924,Canada ,34
-1928,Canada ,49
-1932,Canada ,66
-1936,Canada ,75
-1948,Canada ,76
-1952,Canada ,79
-1956,Canada ,105
-1960,Canada ,128
-1964,Canada ,135
-1968,Canada ,165
-1972,Canada ,177
-1976,Canada ,200
-1980,Canada ,201
-1984,Canada ,289
-1988,Canada ,318
-1992,Canada ,398
-1994,Canada ,435
-1996,Canada ,485
-1998,Canada ,534
-2000,Canada ,565
-2002,Canada ,639
-2004,Canada ,656
-2006,Canada ,725
-2008,Canada ,760
-2010,Canada ,850
-2012,Canada ,905
-2014,Canada ,991
-2016,Canada ,1060
+1904,Canada ,50
+1906,Canada ,52
+1908,Canada ,104
+1912,Canada ,112
+1920,Canada ,128
+1924,Canada ,157
+1928,Canada ,202
+1932,Canada ,261
+1936,Canada ,296
+1948,Canada ,318
+1952,Canada ,339
+1956,Canada ,378
+1960,Canada ,408
+1964,Canada ,420
+1968,Canada ,450
+1972,Canada ,462
+1976,Canada ,488
+1980,Canada ,490
+1984,Canada ,581
+1988,Canada ,610
+1992,Canada ,690
+1994,Canada ,727
+1996,Canada ,777
+1998,Canada ,826
+2000,Canada ,857
+2002,Canada ,931
+2004,Canada ,948
+2006,Canada ,1017
+2008,Canada ,1052
+2010,Canada ,1142
+2012,Canada ,1197
+2014,Canada ,1283
+2016,Canada ,1352
 1896,Chile ,0
 1900,Chile ,0
 1904,Chile ,0
@@ -676,29 +676,29 @@ Year,Country,Medal
 1932,Chile ,1
 1936,Chile ,1
 1948,Chile ,1
-1952,Chile ,1
-1956,Chile ,3
-1960,Chile ,3
-1964,Chile ,3
-1968,Chile ,3
-1972,Chile ,3
-1976,Chile ,3
-1980,Chile ,3
-1984,Chile ,3
-1988,Chile ,4
-1992,Chile ,4
-1994,Chile ,4
-1996,Chile ,4
-1998,Chile ,4
-2000,Chile ,20
-2002,Chile ,20
-2004,Chile ,24
-2006,Chile ,24
-2008,Chile ,25
-2010,Chile ,25
-2012,Chile ,25
-2014,Chile ,25
-2016,Chile ,25
+1952,Chile ,5
+1956,Chile ,9
+1960,Chile ,9
+1964,Chile ,9
+1968,Chile ,9
+1972,Chile ,9
+1976,Chile ,9
+1980,Chile ,9
+1984,Chile ,9
+1988,Chile ,10
+1992,Chile ,10
+1994,Chile ,10
+1996,Chile ,10
+1998,Chile ,10
+2000,Chile ,27
+2002,Chile ,27
+2004,Chile ,31
+2006,Chile ,31
+2008,Chile ,32
+2010,Chile ,32
+2012,Chile ,32
+2014,Chile ,32
+2016,Chile ,32
 1896,China ,0
 1900,China ,0
 1904,China ,0
@@ -721,19 +721,19 @@ Year,Country,Medal
 1980,China ,0
 1984,China ,74
 1988,China ,126
-1992,China ,207
-1994,China ,210
-1996,China ,316
-1998,China ,330
-2000,China ,409
-2002,China ,425
-2004,China ,519
-2006,China ,532
-2008,China ,716
-2010,China ,735
-2012,China ,860
-2014,China ,872
-2016,China ,985
+1992,China ,211
+1994,China ,214
+1996,China ,320
+1998,China ,334
+2000,China ,413
+2002,China ,429
+2004,China ,523
+2006,China ,536
+2008,China ,720
+2010,China ,739
+2012,China ,864
+2014,China ,876
+2016,China ,989
 1896,Cote d'Ivoire ,0
 1900,Cote d'Ivoire ,0
 1904,Cote d'Ivoire ,0
@@ -795,50 +795,50 @@ Year,Country,Medal
 1994,Cameroon ,2
 1996,Cameroon ,2
 1998,Cameroon ,2
-2000,Cameroon ,16
-2002,Cameroon ,16
-2004,Cameroon ,17
-2006,Cameroon ,17
-2008,Cameroon ,18
-2010,Cameroon ,18
-2012,Cameroon ,18
-2014,Cameroon ,18
-2016,Cameroon ,18
+2000,Cameroon ,20
+2002,Cameroon ,20
+2004,Cameroon ,21
+2006,Cameroon ,21
+2008,Cameroon ,22
+2010,Cameroon ,22
+2012,Cameroon ,22
+2014,Cameroon ,22
+2016,Cameroon ,22
 1896,Colombia ,0
-1900,Colombia ,0
-1904,Colombia ,0
-1906,Colombia ,0
-1908,Colombia ,0
-1912,Colombia ,0
-1920,Colombia ,0
-1924,Colombia ,0
-1928,Colombia ,0
-1932,Colombia ,0
-1936,Colombia ,0
-1948,Colombia ,0
-1952,Colombia ,0
-1956,Colombia ,0
-1960,Colombia ,0
-1964,Colombia ,0
-1968,Colombia ,0
-1972,Colombia ,3
-1976,Colombia ,3
-1980,Colombia ,3
-1984,Colombia ,4
-1988,Colombia ,5
-1992,Colombia ,6
-1994,Colombia ,6
-1996,Colombia ,6
-1998,Colombia ,6
-2000,Colombia ,7
-2002,Colombia ,7
-2004,Colombia ,9
-2006,Colombia ,9
-2008,Colombia ,11
-2010,Colombia ,11
-2012,Colombia ,19
-2014,Colombia ,19
-2016,Colombia ,27
+1900,Colombia ,1
+1904,Colombia ,1
+1906,Colombia ,1
+1908,Colombia ,1
+1912,Colombia ,1
+1920,Colombia ,1
+1924,Colombia ,1
+1928,Colombia ,1
+1932,Colombia ,1
+1936,Colombia ,1
+1948,Colombia ,1
+1952,Colombia ,1
+1956,Colombia ,1
+1960,Colombia ,1
+1964,Colombia ,1
+1968,Colombia ,1
+1972,Colombia ,4
+1976,Colombia ,4
+1980,Colombia ,4
+1984,Colombia ,5
+1988,Colombia ,6
+1992,Colombia ,7
+1994,Colombia ,7
+1996,Colombia ,7
+1998,Colombia ,7
+2000,Colombia ,8
+2002,Colombia ,8
+2004,Colombia ,10
+2006,Colombia ,10
+2008,Colombia ,12
+2010,Colombia ,12
+2012,Colombia ,20
+2014,Colombia ,20
+2016,Colombia ,28
 1896,Costa Rica ,0
 1900,Costa Rica ,0
 1904,Costa Rica ,0
@@ -898,52 +898,52 @@ Year,Country,Medal
 1988,Croatia ,0
 1992,Croatia ,15
 1994,Croatia ,15
-1996,Croatia ,34
-1998,Croatia ,34
-2000,Croatia ,44
-2002,Croatia ,48
-2004,Croatia ,69
-2006,Croatia ,72
-2008,Croatia ,77
-2010,Croatia ,80
-2012,Croatia ,114
-2014,Croatia ,115
-2016,Croatia ,139
+1996,Croatia ,43
+1998,Croatia ,43
+2000,Croatia ,53
+2002,Croatia ,57
+2004,Croatia ,78
+2006,Croatia ,81
+2008,Croatia ,86
+2010,Croatia ,89
+2012,Croatia ,124
+2014,Croatia ,125
+2016,Croatia ,149
 1896,Cuba ,0
-1900,Cuba ,0
-1904,Cuba ,0
-1906,Cuba ,0
-1908,Cuba ,0
-1912,Cuba ,0
-1920,Cuba ,0
-1924,Cuba ,0
-1928,Cuba ,0
-1932,Cuba ,0
-1936,Cuba ,0
-1948,Cuba ,1
-1952,Cuba ,1
-1956,Cuba ,1
-1960,Cuba ,1
-1964,Cuba ,2
-1968,Cuba ,12
-1972,Cuba ,34
-1976,Cuba ,58
-1980,Cuba ,78
-1984,Cuba ,78
-1988,Cuba ,78
-1992,Cuba ,141
-1994,Cuba ,141
-1996,Cuba ,196
-1998,Cuba ,196
-2000,Cuba ,260
-2002,Cuba ,260
-2004,Cuba ,322
-2006,Cuba ,322
-2008,Cuba ,369
-2010,Cuba ,369
-2012,Cuba ,383
-2014,Cuba ,383
-2016,Cuba ,394
+1900,Cuba ,2
+1904,Cuba ,7
+1906,Cuba ,7
+1908,Cuba ,7
+1912,Cuba ,7
+1920,Cuba ,7
+1924,Cuba ,7
+1928,Cuba ,7
+1932,Cuba ,7
+1936,Cuba ,7
+1948,Cuba ,9
+1952,Cuba ,9
+1956,Cuba ,9
+1960,Cuba ,9
+1964,Cuba ,10
+1968,Cuba ,20
+1972,Cuba ,42
+1976,Cuba ,66
+1980,Cuba ,86
+1984,Cuba ,86
+1988,Cuba ,86
+1992,Cuba ,155
+1994,Cuba ,155
+1996,Cuba ,210
+1998,Cuba ,210
+2000,Cuba ,275
+2002,Cuba ,275
+2004,Cuba ,337
+2006,Cuba ,337
+2008,Cuba ,384
+2010,Cuba ,384
+2012,Cuba ,398
+2014,Cuba ,398
+2016,Cuba ,409
 1896,Cyprus ,0
 1900,Cyprus ,0
 1904,Cyprus ,0
@@ -1014,41 +1014,41 @@ Year,Country,Medal
 2012,Czech Republic ,118
 2014,Czech Republic ,129
 2016,Czech Republic ,144
-1896,Denmark ,0
-1900,Denmark ,0
-1904,Denmark ,0
-1906,Denmark ,0
-1908,Denmark ,0
-1912,Denmark ,0
-1920,Denmark ,0
-1924,Denmark ,0
-1928,Denmark ,0
-1932,Denmark ,0
-1936,Denmark ,0
-1948,Denmark ,5
-1952,Denmark ,6
-1956,Denmark ,9
-1960,Denmark ,32
-1964,Denmark ,44
-1968,Denmark ,61
-1972,Denmark ,62
-1976,Denmark ,70
-1980,Denmark ,78
-1984,Denmark ,91
-1988,Denmark ,98
-1992,Denmark ,109
-1994,Denmark ,109
-1996,Denmark ,120
-1998,Denmark ,125
-2000,Denmark ,150
-2002,Denmark ,150
-2004,Denmark ,179
-2006,Denmark ,179
-2008,Denmark ,198
-2010,Denmark ,198
-2012,Denmark ,214
-2014,Denmark ,214
-2016,Denmark ,255
+1896,Denmark ,6
+1900,Denmark ,15
+1904,Denmark ,15
+1906,Denmark ,49
+1908,Denmark ,66
+1912,Denmark ,153
+1920,Denmark ,224
+1924,Denmark ,238
+1928,Denmark ,253
+1932,Denmark ,264
+1936,Denmark ,270
+1948,Denmark ,321
+1952,Denmark ,330
+1956,Denmark ,336
+1960,Denmark ,359
+1964,Denmark ,371
+1968,Denmark ,388
+1972,Denmark ,389
+1976,Denmark ,397
+1980,Denmark ,405
+1984,Denmark ,418
+1988,Denmark ,425
+1992,Denmark ,439
+1994,Denmark ,439
+1996,Denmark ,462
+1998,Denmark ,467
+2000,Denmark ,492
+2002,Denmark ,492
+2004,Denmark ,521
+2006,Denmark ,521
+2008,Denmark ,540
+2010,Denmark ,540
+2012,Denmark ,556
+2014,Denmark ,556
+2016,Denmark ,597
 1896,Djibouti ,0
 1900,Djibouti ,0
 1904,Djibouti ,0
@@ -1104,21 +1104,21 @@ Year,Country,Medal
 1972,The Dominican Republic ,0
 1976,The Dominican Republic ,0
 1980,The Dominican Republic ,0
-1984,The Dominican Republic ,0
-1988,The Dominican Republic ,0
-1992,The Dominican Republic ,0
-1994,The Dominican Republic ,0
-1996,The Dominican Republic ,0
-1998,The Dominican Republic ,0
-2000,The Dominican Republic ,0
-2002,The Dominican Republic ,0
-2004,The Dominican Republic ,1
-2006,The Dominican Republic ,1
-2008,The Dominican Republic ,3
-2010,The Dominican Republic ,3
-2012,The Dominican Republic ,5
-2014,The Dominican Republic ,5
-2016,The Dominican Republic ,6
+1984,The Dominican Republic ,1
+1988,The Dominican Republic ,1
+1992,The Dominican Republic ,1
+1994,The Dominican Republic ,1
+1996,The Dominican Republic ,1
+1998,The Dominican Republic ,1
+2000,The Dominican Republic ,1
+2002,The Dominican Republic ,1
+2004,The Dominican Republic ,2
+2006,The Dominican Republic ,2
+2008,The Dominican Republic ,4
+2010,The Dominican Republic ,4
+2012,The Dominican Republic ,6
+2014,The Dominican Republic ,6
+2016,The Dominican Republic ,7
 1896,Ecuador ,0
 1900,Ecuador ,0
 1904,Ecuador ,0
@@ -1162,33 +1162,33 @@ Year,Country,Medal
 1912,Egypt ,0
 1920,Egypt ,0
 1924,Egypt ,0
-1928,Egypt ,0
-1932,Egypt ,0
-1936,Egypt ,0
-1948,Egypt ,0
-1952,Egypt ,0
-1956,Egypt ,0
-1960,Egypt ,0
-1964,Egypt ,0
-1968,Egypt ,0
-1972,Egypt ,0
-1976,Egypt ,0
-1980,Egypt ,0
-1984,Egypt ,1
-1988,Egypt ,1
-1992,Egypt ,1
-1994,Egypt ,1
-1996,Egypt ,1
-1998,Egypt ,1
-2000,Egypt ,1
-2002,Egypt ,1
-2004,Egypt ,6
-2006,Egypt ,6
-2008,Egypt ,7
-2010,Egypt ,7
-2012,Egypt ,9
-2014,Egypt ,9
-2016,Egypt ,12
+1928,Egypt ,4
+1932,Egypt ,4
+1936,Egypt ,9
+1948,Egypt ,14
+1952,Egypt ,15
+1956,Egypt ,15
+1960,Egypt ,15
+1964,Egypt ,15
+1968,Egypt ,15
+1972,Egypt ,15
+1976,Egypt ,15
+1980,Egypt ,15
+1984,Egypt ,16
+1988,Egypt ,16
+1992,Egypt ,16
+1994,Egypt ,16
+1996,Egypt ,16
+1998,Egypt ,16
+2000,Egypt ,16
+2002,Egypt ,16
+2004,Egypt ,21
+2006,Egypt ,21
+2008,Egypt ,22
+2010,Egypt ,22
+2012,Egypt ,24
+2014,Egypt ,24
+2016,Egypt ,27
 1896,Eritrea ,0
 1900,Eritrea ,0
 1904,Eritrea ,0
@@ -1225,75 +1225,75 @@ Year,Country,Medal
 2014,Eritrea ,1
 2016,Eritrea ,1
 1896,Spain ,0
-1900,Spain ,0
-1904,Spain ,0
-1906,Spain ,0
-1908,Spain ,0
-1912,Spain ,0
-1920,Spain ,2
-1924,Spain ,2
-1928,Spain ,2
-1932,Spain ,2
-1936,Spain ,2
-1948,Spain ,2
-1952,Spain ,3
-1956,Spain ,3
-1960,Spain ,17
-1964,Spain ,17
-1968,Spain ,17
-1972,Spain ,19
-1976,Spain ,25
-1980,Spain ,49
-1984,Spain ,68
-1988,Spain ,73
-1992,Spain ,117
-1994,Spain ,117
-1996,Spain ,182
-1998,Spain ,182
-2000,Spain ,224
-2002,Spain ,224
-2004,Spain ,254
-2006,Spain ,254
-2008,Spain ,324
-2010,Spain ,324
-2012,Spain ,386
-2014,Spain ,386
-2016,Spain ,431
+1900,Spain ,2
+1904,Spain ,2
+1906,Spain ,2
+1908,Spain ,2
+1912,Spain ,2
+1920,Spain ,25
+1924,Spain ,25
+1928,Spain ,28
+1932,Spain ,29
+1936,Spain ,29
+1948,Spain ,32
+1952,Spain ,33
+1956,Spain ,33
+1960,Spain ,47
+1964,Spain ,47
+1968,Spain ,47
+1972,Spain ,49
+1976,Spain ,55
+1980,Spain ,79
+1984,Spain ,98
+1988,Spain ,103
+1992,Spain ,173
+1994,Spain ,173
+1996,Spain ,239
+1998,Spain ,239
+2000,Spain ,281
+2002,Spain ,281
+2004,Spain ,311
+2006,Spain ,311
+2008,Spain ,381
+2010,Spain ,381
+2012,Spain ,444
+2014,Spain ,444
+2016,Spain ,489
 1896,Estonia ,0
 1900,Estonia ,0
 1904,Estonia ,0
 1906,Estonia ,0
 1908,Estonia ,0
 1912,Estonia ,0
-1920,Estonia ,2
-1924,Estonia ,5
-1928,Estonia ,6
-1932,Estonia ,6
-1936,Estonia ,9
-1948,Estonia ,9
-1952,Estonia ,9
-1956,Estonia ,9
-1960,Estonia ,9
-1964,Estonia ,9
-1968,Estonia ,9
-1972,Estonia ,9
-1976,Estonia ,9
-1980,Estonia ,9
-1984,Estonia ,9
-1988,Estonia ,9
-1992,Estonia ,12
-1994,Estonia ,12
-1996,Estonia ,12
-1998,Estonia ,12
-2000,Estonia ,15
-2002,Estonia ,18
-2004,Estonia ,21
-2006,Estonia ,24
-2008,Estonia ,27
-2010,Estonia ,28
-2012,Estonia ,30
-2014,Estonia ,30
-2016,Estonia ,34
+1920,Estonia ,3
+1924,Estonia ,9
+1928,Estonia ,18
+1932,Estonia ,18
+1936,Estonia ,25
+1948,Estonia ,25
+1952,Estonia ,25
+1956,Estonia ,25
+1960,Estonia ,25
+1964,Estonia ,25
+1968,Estonia ,25
+1972,Estonia ,25
+1976,Estonia ,25
+1980,Estonia ,25
+1984,Estonia ,25
+1988,Estonia ,25
+1992,Estonia ,28
+1994,Estonia ,28
+1996,Estonia ,28
+1998,Estonia ,28
+2000,Estonia ,31
+2002,Estonia ,34
+2004,Estonia ,37
+2006,Estonia ,40
+2008,Estonia ,43
+2010,Estonia ,44
+2012,Estonia ,46
+2014,Estonia ,46
+2016,Estonia ,50
 1896,Ethiopia ,0
 1900,Ethiopia ,0
 1904,Ethiopia ,0
@@ -1351,19 +1351,19 @@ Year,Country,Medal
 1980,Unified Team,0
 1984,Unified Team,0
 1988,Unified Team,0
-1992,Unified Team,230
-1994,Unified Team,230
-1996,Unified Team,230
-1998,Unified Team,230
-2000,Unified Team,230
-2002,Unified Team,230
-2004,Unified Team,230
-2006,Unified Team,230
-2008,Unified Team,230
-2010,Unified Team,230
-2012,Unified Team,230
-2014,Unified Team,230
-2016,Unified Team,230
+1992,Unified Team,279
+1994,Unified Team,279
+1996,Unified Team,279
+1998,Unified Team,279
+2000,Unified Team,279
+2002,Unified Team,279
+2004,Unified Team,279
+2006,Unified Team,279
+2008,Unified Team,279
+2010,Unified Team,279
+2012,Unified Team,279
+2014,Unified Team,279
+2016,Unified Team,279
 1896,Fiji ,0
 1900,Fiji ,0
 1904,Fiji ,0
@@ -1403,72 +1403,72 @@ Year,Country,Medal
 1900,Finland ,0
 1904,Finland ,0
 1906,Finland ,4
-1908,Finland ,10
-1912,Finland ,31
-1920,Finland ,61
-1924,Finland ,107
-1928,Finland ,130
-1932,Finland ,155
-1936,Finland ,176
-1948,Finland ,200
-1952,Finland ,240
-1956,Finland ,277
-1960,Finland ,296
-1964,Finland ,316
-1968,Finland ,328
-1972,Finland ,348
-1976,Finland ,370
-1980,Finland ,391
-1984,Finland ,422
-1988,Finland ,460
-1992,Finland ,480
-1994,Finland ,510
-1996,Finland ,514
-1998,Finland ,572
-2000,Finland ,577
-2002,Finland ,590
-2004,Finland ,592
-2006,Finland ,633
-2008,Finland ,638
-2010,Finland ,685
-2012,Finland ,690
-2014,Finland ,723
-2016,Finland ,724
-1896,France ,0
-1900,France ,4
-1904,France ,4
-1906,France ,6
-1908,France ,11
-1912,France ,12
-1920,France ,35
-1924,France ,67
-1928,France ,73
-1932,France ,81
-1936,France ,87
-1948,France ,115
-1952,France ,130
-1956,France ,143
-1960,France ,156
-1964,France ,193
-1968,France ,229
-1972,France ,254
-1976,France ,275
-1980,France ,305
-1984,France ,375
-1988,France ,406
-1992,France ,475
-1994,France ,486
-1996,France ,537
-1998,France ,552
-2000,France ,618
-2002,France ,633
-2004,France ,686
-2006,France ,701
-2008,France ,778
-2010,France ,792
-2012,France ,874
-2014,France ,891
-2016,France ,987
+1908,Finland ,34
+1912,Finland ,105
+1920,Finland ,157
+1924,Finland ,224
+1928,Finland ,253
+1932,Finland ,285
+1936,Finland ,321
+1948,Finland ,363
+1952,Finland ,415
+1956,Finland ,453
+1960,Finland ,472
+1964,Finland ,492
+1968,Finland ,504
+1972,Finland ,524
+1976,Finland ,546
+1980,Finland ,567
+1984,Finland ,598
+1988,Finland ,636
+1992,Finland ,656
+1994,Finland ,686
+1996,Finland ,690
+1998,Finland ,748
+2000,Finland ,753
+2002,Finland ,766
+2004,Finland ,768
+2006,Finland ,809
+2008,Finland ,814
+2010,Finland ,861
+2012,Finland ,866
+2014,Finland ,899
+2016,Finland ,900
+1896,France ,11
+1900,France ,246
+1904,France ,248
+1906,France ,312
+1908,France ,352
+1912,France ,378
+1920,France ,519
+1924,France ,639
+1928,France ,691
+1932,France ,733
+1936,France ,778
+1948,France ,855
+1952,France ,896
+1956,France ,929
+1960,France ,944
+1964,France ,982
+1968,France ,1018
+1972,France ,1043
+1976,France ,1064
+1980,France ,1094
+1984,France ,1164
+1988,France ,1195
+1992,France ,1264
+1994,France ,1275
+1996,France ,1326
+1998,France ,1341
+2000,France ,1407
+2002,France ,1422
+2004,France ,1475
+2006,France ,1490
+2008,France ,1567
+2010,France ,1581
+2012,France ,1663
+2014,France ,1681
+2016,France ,1777
 1896,West Germany,0
 1900,West Germany,0
 1904,West Germany,0
@@ -1487,23 +1487,23 @@ Year,Country,Medal
 1964,West Germany,0
 1968,West Germany,61
 1972,West Germany,173
-1976,West Germany,279
-1980,West Germany,287
-1984,West Germany,453
-1988,West Germany,582
-1992,West Germany,582
-1994,West Germany,582
-1996,West Germany,582
-1998,West Germany,582
-2000,West Germany,582
-2002,West Germany,582
-2004,West Germany,582
-2006,West Germany,582
-2008,West Germany,582
-2010,West Germany,582
-2012,West Germany,582
-2014,West Germany,582
-2016,West Germany,582
+1976,West Germany,283
+1980,West Germany,291
+1984,West Germany,457
+1988,West Germany,586
+1992,West Germany,586
+1994,West Germany,586
+1996,West Germany,586
+1998,West Germany,586
+2000,West Germany,586
+2002,West Germany,586
+2004,West Germany,586
+2006,West Germany,586
+2008,West Germany,586
+2010,West Germany,586
+2012,West Germany,586
+2014,West Germany,586
+2016,West Germany,586
 1896,Gabon ,0
 1900,Gabon ,0
 1904,Gabon ,0
@@ -1539,41 +1539,41 @@ Year,Country,Medal
 2012,Gabon ,1
 2014,Gabon ,1
 2016,Gabon ,1
-1896,United Kingdom,2
-1900,United Kingdom,6
-1904,United Kingdom,7
-1906,United Kingdom,18
-1908,United Kingdom,56
-1912,United Kingdom,73
-1920,United Kingdom,83
-1924,United Kingdom,91
-1928,United Kingdom,97
-1932,United Kingdom,107
-1936,United Kingdom,124
-1948,United Kingdom,131
-1952,United Kingdom,139
-1956,United Kingdom,162
-1960,United Kingdom,190
-1964,United Kingdom,220
-1968,United Kingdom,238
-1972,United Kingdom,267
-1976,United Kingdom,297
-1980,United Kingdom,345
-1984,United Kingdom,418
-1988,United Kingdom,472
-1992,United Kingdom,522
-1994,United Kingdom,525
-1996,United Kingdom,551
-1998,United Kingdom,555
-2000,United Kingdom,609
-2002,United Kingdom,615
-2004,United Kingdom,672
-2006,United Kingdom,673
-2008,United Kingdom,754
-2010,United Kingdom,755
-2012,United Kingdom,878
-2014,United Kingdom,888
-2016,United Kingdom,1031
+1896,United Kingdom,9
+1900,United Kingdom,117
+1904,United Kingdom,119
+1906,United Kingdom,158
+1908,United Kingdom,526
+1912,United Kingdom,696
+1920,United Kingdom,807
+1924,United Kingdom,902
+1928,United Kingdom,961
+1932,United Kingdom,996
+1936,United Kingdom,1049
+1948,United Kingdom,1112
+1952,United Kingdom,1144
+1956,United Kingdom,1190
+1960,United Kingdom,1218
+1964,United Kingdom,1248
+1968,United Kingdom,1267
+1972,United Kingdom,1296
+1976,United Kingdom,1329
+1980,United Kingdom,1377
+1984,United Kingdom,1450
+1988,United Kingdom,1504
+1992,United Kingdom,1554
+1994,United Kingdom,1557
+1996,United Kingdom,1583
+1998,United Kingdom,1587
+2000,United Kingdom,1641
+2002,United Kingdom,1647
+2004,United Kingdom,1704
+2006,United Kingdom,1705
+2008,United Kingdom,1786
+2010,United Kingdom,1787
+2012,United Kingdom,1913
+2014,United Kingdom,1923
+2016,United Kingdom,2068
 1896,East Germany,0
 1900,East Germany,0
 1904,East Germany,0
@@ -1590,25 +1590,25 @@ Year,Country,Medal
 1956,East Germany,0
 1960,East Germany,0
 1964,East Germany,0
-1968,East Germany,57
-1972,East Germany,228
-1976,East Germany,455
-1980,East Germany,750
-1984,East Germany,783
-1988,East Germany,995
-1992,East Germany,995
-1994,East Germany,995
-1996,East Germany,995
-1998,East Germany,995
-2000,East Germany,995
-2002,East Germany,995
-2004,East Germany,995
-2006,East Germany,995
-2008,East Germany,995
-2010,East Germany,995
-2012,East Germany,995
-2014,East Germany,995
-2016,East Germany,995
+1968,East Germany,58
+1972,East Germany,229
+1976,East Germany,456
+1980,East Germany,759
+1984,East Germany,792
+1988,East Germany,1005
+1992,East Germany,1005
+1994,East Germany,1005
+1996,East Germany,1005
+1998,East Germany,1005
+2000,East Germany,1005
+2002,East Germany,1005
+2004,East Germany,1005
+2006,East Germany,1005
+2008,East Germany,1005
+2010,East Germany,1005
+2012,East Germany,1005
+2014,East Germany,1005
+2016,East Germany,1005
 1896,Georgia ,0
 1900,Georgia ,0
 1904,Georgia ,0
@@ -1644,41 +1644,41 @@ Year,Country,Medal
 2012,Georgia ,25
 2014,Georgia ,25
 2016,Georgia ,32
-1896,Germany ,6
-1900,Germany ,6
-1904,Germany ,10
-1906,Germany ,19
-1908,Germany ,23
-1912,Germany ,25
-1920,Germany ,25
-1924,Germany ,25
-1928,Germany ,42
-1932,Germany ,51
-1936,Germany ,78
-1948,Germany ,78
-1952,Germany ,95
-1956,Germany ,124
-1960,Germany ,221
-1964,Germany ,347
-1968,Germany ,347
-1972,Germany ,347
-1976,Germany ,347
-1980,Germany ,347
-1984,Germany ,347
-1988,Germany ,347
-1992,Germany ,582
-1994,Germany ,622
-1996,Germany ,745
-1998,Germany ,789
-2000,Germany ,906
-2002,Germany ,967
-2004,Germany ,1116
-2006,Germany ,1170
-2008,Germany ,1269
-2010,Germany ,1323
-2012,Germany ,1417
-2014,Germany ,1453
-2016,Germany ,1612
+1896,Germany ,32
+1900,Germany ,77
+1904,Germany ,93
+1906,Germany ,123
+1908,Germany ,144
+1912,Germany ,197
+1920,Germany ,197
+1924,Germany ,197
+1928,Germany ,279
+1932,Germany ,336
+1936,Germany ,567
+1948,Germany ,567
+1952,Germany ,619
+1956,Germany ,673
+1960,Germany ,771
+1964,Germany ,897
+1968,Germany ,897
+1972,Germany ,897
+1976,Germany ,897
+1980,Germany ,897
+1984,Germany ,897
+1988,Germany ,897
+1992,Germany ,1133
+1994,Germany ,1173
+1996,Germany ,1297
+1998,Germany ,1341
+2000,Germany ,1459
+2002,Germany ,1520
+2004,Germany ,1669
+2006,Germany ,1723
+2008,Germany ,1822
+2010,Germany ,1876
+2012,Germany ,1970
+2014,Germany ,2006
+2016,Germany ,2165
 1896,Ghana ,0
 1900,Ghana ,0
 1904,Ghana ,0
@@ -1701,54 +1701,54 @@ Year,Country,Medal
 1980,Ghana ,3
 1984,Ghana ,3
 1988,Ghana ,3
-1992,Ghana ,6
-1994,Ghana ,6
-1996,Ghana ,6
-1998,Ghana ,6
-2000,Ghana ,6
-2002,Ghana ,6
-2004,Ghana ,6
-2006,Ghana ,6
-2008,Ghana ,6
-2010,Ghana ,6
-2012,Ghana ,6
-2014,Ghana ,6
-2016,Ghana ,6
-1896,Greece ,0
-1900,Greece ,0
-1904,Greece ,1
-1906,Greece ,5
-1908,Greece ,8
-1912,Greece ,10
-1920,Greece ,10
-1924,Greece ,10
-1928,Greece ,10
-1932,Greece ,10
-1936,Greece ,10
-1948,Greece ,10
-1952,Greece ,10
-1956,Greece ,11
-1960,Greece ,14
-1964,Greece ,14
-1968,Greece ,15
-1972,Greece ,17
-1976,Greece ,17
-1980,Greece ,22
-1984,Greece ,24
-1988,Greece ,25
-1992,Greece ,27
-1994,Greece ,27
-1996,Greece ,35
-1998,Greece ,35
-2000,Greece ,53
-2002,Greece ,53
-2004,Greece ,84
-2006,Greece ,84
-2008,Greece ,91
-2010,Greece ,91
-2012,Greece ,94
-2014,Greece ,94
-2016,Greece ,101
+1992,Ghana ,23
+1994,Ghana ,23
+1996,Ghana ,23
+1998,Ghana ,23
+2000,Ghana ,23
+2002,Ghana ,23
+2004,Ghana ,23
+2006,Ghana ,23
+2008,Ghana ,23
+2010,Ghana ,23
+2012,Ghana ,23
+2014,Ghana ,23
+2016,Ghana ,23
+1896,Greece ,48
+1900,Greece ,48
+1904,Greece ,50
+1906,Greece ,152
+1908,Greece ,156
+1912,Greece ,158
+1920,Greece ,163
+1924,Greece ,164
+1928,Greece ,164
+1932,Greece ,164
+1936,Greece ,164
+1948,Greece ,164
+1952,Greece ,164
+1956,Greece ,165
+1960,Greece ,168
+1964,Greece ,168
+1968,Greece ,169
+1972,Greece ,171
+1976,Greece ,171
+1980,Greece ,176
+1984,Greece ,178
+1988,Greece ,179
+1992,Greece ,181
+1994,Greece ,181
+1996,Greece ,189
+1998,Greece ,189
+2000,Greece ,207
+2002,Greece ,207
+2004,Greece ,238
+2006,Greece ,238
+2008,Greece ,245
+2010,Greece ,245
+2012,Greece ,248
+2014,Greece ,248
+2016,Greece ,255
 1896,Grenada ,0
 1900,Grenada ,0
 1904,Grenada ,0
@@ -1855,40 +1855,40 @@ Year,Country,Medal
 2014,Guyana ,1
 2016,Guyana ,1
 1896,Haiti ,0
-1900,Haiti ,0
-1904,Haiti ,0
-1906,Haiti ,0
-1908,Haiti ,0
-1912,Haiti ,0
-1920,Haiti ,0
-1924,Haiti ,0
-1928,Haiti ,1
-1932,Haiti ,1
-1936,Haiti ,1
-1948,Haiti ,1
-1952,Haiti ,1
-1956,Haiti ,1
-1960,Haiti ,1
-1964,Haiti ,1
-1968,Haiti ,1
-1972,Haiti ,1
-1976,Haiti ,1
-1980,Haiti ,1
-1984,Haiti ,1
-1988,Haiti ,1
-1992,Haiti ,1
-1994,Haiti ,1
-1996,Haiti ,1
-1998,Haiti ,1
-2000,Haiti ,1
-2002,Haiti ,1
-2004,Haiti ,1
-2006,Haiti ,1
-2008,Haiti ,1
-2010,Haiti ,1
-2012,Haiti ,1
-2014,Haiti ,1
-2016,Haiti ,1
+1900,Haiti ,1
+1904,Haiti ,1
+1906,Haiti ,1
+1908,Haiti ,1
+1912,Haiti ,1
+1920,Haiti ,1
+1924,Haiti ,6
+1928,Haiti ,7
+1932,Haiti ,7
+1936,Haiti ,7
+1948,Haiti ,7
+1952,Haiti ,7
+1956,Haiti ,7
+1960,Haiti ,7
+1964,Haiti ,7
+1968,Haiti ,7
+1972,Haiti ,7
+1976,Haiti ,7
+1980,Haiti ,7
+1984,Haiti ,7
+1988,Haiti ,7
+1992,Haiti ,7
+1994,Haiti ,7
+1996,Haiti ,7
+1998,Haiti ,7
+2000,Haiti ,7
+2002,Haiti ,7
+2004,Haiti ,7
+2006,Haiti ,7
+2008,Haiti ,7
+2010,Haiti ,7
+2012,Haiti ,7
+2014,Haiti ,7
+2016,Haiti ,7
 1896,Hong Kong,0
 1900,Hong Kong,0
 1904,Hong Kong,0
@@ -1924,41 +1924,41 @@ Year,Country,Medal
 2012,Hong Kong,4
 2014,Hong Kong,4
 2016,Hong Kong,4
-1896,Hungary ,0
-1900,Hungary ,3
-1904,Hungary ,5
-1906,Hungary ,7
-1908,Hungary ,12
-1912,Hungary ,12
-1920,Hungary ,12
-1924,Hungary ,13
-1928,Hungary ,14
-1932,Hungary ,15
-1936,Hungary ,19
-1948,Hungary ,32
-1952,Hungary ,60
-1956,Hungary ,91
-1960,Hungary ,156
-1964,Hungary ,212
-1968,Hungary ,293
-1972,Hungary ,374
-1976,Hungary ,429
-1980,Hungary ,492
-1984,Hungary ,492
-1988,Hungary ,536
-1992,Hungary ,581
-1994,Hungary ,581
-1996,Hungary ,623
-1998,Hungary ,623
-2000,Hungary ,676
-2002,Hungary ,676
-2004,Hungary ,716
-2006,Hungary ,716
-2008,Hungary ,743
-2010,Hungary ,743
-2012,Hungary ,769
-2014,Hungary ,769
-2016,Hungary ,791
+1896,Hungary ,6
+1900,Hungary ,11
+1904,Hungary ,15
+1906,Hungary ,28
+1908,Hungary ,48
+1912,Hungary ,78
+1920,Hungary ,78
+1924,Hungary ,100
+1928,Hungary ,121
+1932,Hungary ,156
+1936,Hungary ,199
+1948,Hungary ,263
+1952,Hungary ,367
+1956,Hungary ,433
+1960,Hungary ,499
+1964,Hungary ,555
+1968,Hungary ,636
+1972,Hungary ,717
+1976,Hungary ,772
+1980,Hungary ,835
+1984,Hungary ,835
+1988,Hungary ,879
+1992,Hungary ,924
+1994,Hungary ,924
+1996,Hungary ,967
+1998,Hungary ,967
+2000,Hungary ,1020
+2002,Hungary ,1020
+2004,Hungary ,1060
+2006,Hungary ,1060
+2008,Hungary ,1087
+2010,Hungary ,1087
+2012,Hungary ,1113
+2014,Hungary ,1113
+2016,Hungary ,1135
 1896,Indonesia ,0
 1900,Indonesia ,0
 1904,Indonesia ,0
@@ -1981,54 +1981,54 @@ Year,Country,Medal
 1980,Indonesia ,0
 1984,Indonesia ,0
 1988,Indonesia ,3
-1992,Indonesia ,8
-1994,Indonesia ,8
-1996,Indonesia ,12
-1998,Indonesia ,12
-2000,Indonesia ,20
-2002,Indonesia ,20
-2004,Indonesia ,25
-2006,Indonesia ,25
-2008,Indonesia ,32
-2010,Indonesia ,32
-2012,Indonesia ,34
-2014,Indonesia ,34
-2016,Indonesia ,38
+1992,Indonesia ,9
+1994,Indonesia ,9
+1996,Indonesia ,15
+1998,Indonesia ,15
+2000,Indonesia ,23
+2002,Indonesia ,23
+2004,Indonesia ,28
+2006,Indonesia ,28
+2008,Indonesia ,35
+2010,Indonesia ,35
+2012,Indonesia ,37
+2014,Indonesia ,37
+2016,Indonesia ,41
 1896,India ,0
-1900,India ,0
-1904,India ,0
-1906,India ,0
-1908,India ,0
-1912,India ,0
-1920,India ,0
-1924,India ,0
-1928,India ,0
-1932,India ,0
-1936,India ,0
-1948,India ,1
-1952,India ,3
-1956,India ,8
-1960,India ,21
-1964,India ,36
-1968,India ,52
-1972,India ,66
-1976,India ,66
-1980,India ,82
-1984,India ,82
-1988,India ,82
-1992,India ,82
-1994,India ,82
-1996,India ,83
-1998,India ,83
-2000,India ,84
-2002,India ,84
-2004,India ,85
-2006,India ,85
-2008,India ,88
-2010,India ,88
-2012,India ,94
-2014,India ,94
-2016,India ,96
+1900,India ,2
+1904,India ,2
+1906,India ,2
+1908,India ,2
+1912,India ,2
+1920,India ,2
+1924,India ,9
+1928,India ,23
+1932,India ,38
+1936,India ,57
+1948,India ,77
+1952,India ,92
+1956,India ,109
+1960,India ,122
+1964,India ,137
+1968,India ,153
+1972,India ,167
+1976,India ,167
+1980,India ,183
+1984,India ,183
+1988,India ,183
+1992,India ,183
+1994,India ,183
+1996,India ,184
+1998,India ,184
+2000,India ,185
+2002,India ,185
+2004,India ,186
+2006,India ,186
+2008,India ,189
+2010,India ,189
+2012,India ,195
+2014,India ,195
+2016,India ,197
 1896,Independent Olympic Athletes,0
 1900,Independent Olympic Athletes,0
 1904,Independent Olympic Athletes,0
@@ -2075,30 +2075,30 @@ Year,Country,Medal
 1928,Iran ,0
 1932,Iran ,0
 1936,Iran ,0
-1948,Iran ,0
-1952,Iran ,1
-1956,Iran ,4
-1960,Iran ,8
-1964,Iran ,10
-1968,Iran ,15
-1972,Iran ,18
-1976,Iran ,20
-1980,Iran ,20
-1984,Iran ,20
-1988,Iran ,21
-1992,Iran ,24
-1994,Iran ,24
-1996,Iran ,27
-1998,Iran ,27
-2000,Iran ,31
-2002,Iran ,31
-2004,Iran ,37
-2006,Iran ,37
-2008,Iran ,39
-2010,Iran ,39
-2012,Iran ,51
-2014,Iran ,51
-2016,Iran ,59
+1948,Iran ,1
+1952,Iran ,8
+1956,Iran ,13
+1960,Iran ,17
+1964,Iran ,19
+1968,Iran ,24
+1972,Iran ,27
+1976,Iran ,29
+1980,Iran ,29
+1984,Iran ,29
+1988,Iran ,30
+1992,Iran ,33
+1994,Iran ,33
+1996,Iran ,36
+1998,Iran ,36
+2000,Iran ,40
+2002,Iran ,40
+2004,Iran ,46
+2006,Iran ,46
+2008,Iran ,48
+2010,Iran ,48
+2012,Iran ,60
+2014,Iran ,60
+2016,Iran ,68
 1896,Ireland ,0
 1900,Ireland ,0
 1904,Ireland ,0
@@ -2106,34 +2106,34 @@ Year,Country,Medal
 1908,Ireland ,0
 1912,Ireland ,0
 1920,Ireland ,0
-1924,Ireland ,0
-1928,Ireland ,1
-1932,Ireland ,3
-1936,Ireland ,3
-1948,Ireland ,3
-1952,Ireland ,3
-1956,Ireland ,4
-1960,Ireland ,4
-1964,Ireland ,5
-1968,Ireland ,5
-1972,Ireland ,5
-1976,Ireland ,5
-1980,Ireland ,8
-1984,Ireland ,9
-1988,Ireland ,9
-1992,Ireland ,11
-1994,Ireland ,11
-1996,Ireland ,15
-1998,Ireland ,15
-2000,Ireland ,16
-2002,Ireland ,16
-2004,Ireland ,16
-2006,Ireland ,16
-2008,Ireland ,19
-2010,Ireland ,19
-2012,Ireland ,24
-2014,Ireland ,24
-2016,Ireland ,27
+1924,Ireland ,2
+1928,Ireland ,3
+1932,Ireland ,5
+1936,Ireland ,5
+1948,Ireland ,6
+1952,Ireland ,7
+1956,Ireland ,12
+1960,Ireland ,12
+1964,Ireland ,13
+1968,Ireland ,13
+1972,Ireland ,13
+1976,Ireland ,13
+1980,Ireland ,16
+1984,Ireland ,17
+1988,Ireland ,17
+1992,Ireland ,19
+1994,Ireland ,19
+1996,Ireland ,23
+1998,Ireland ,23
+2000,Ireland ,24
+2002,Ireland ,24
+2004,Ireland ,24
+2006,Ireland ,24
+2008,Ireland ,27
+2010,Ireland ,27
+2012,Ireland ,32
+2014,Ireland ,32
+2016,Ireland ,35
 1896,Iceland ,0
 1900,Iceland ,0
 1904,Iceland ,0
@@ -2191,19 +2191,19 @@ Year,Country,Medal
 1980,Israel ,0
 1984,Israel ,0
 1988,Israel ,0
-1992,Israel ,0
-1994,Israel ,0
-1996,Israel ,1
-1998,Israel ,1
-2000,Israel ,2
-2002,Israel ,2
-2004,Israel ,4
-2006,Israel ,4
-2008,Israel ,5
-2010,Israel ,5
-2012,Israel ,5
-2014,Israel ,5
-2016,Israel ,7
+1992,Israel ,2
+1994,Israel ,2
+1996,Israel ,3
+1998,Israel ,3
+2000,Israel ,4
+2002,Israel ,4
+2004,Israel ,6
+2006,Israel ,6
+2008,Israel ,7
+2010,Israel ,7
+2012,Israel ,7
+2014,Israel ,7
+2016,Israel ,9
 1896,Virgin Islands,0
 1900,Virgin Islands,0
 1904,Virgin Islands,0
@@ -2240,40 +2240,40 @@ Year,Country,Medal
 2014,Virgin Islands,1
 2016,Virgin Islands,1
 1896,Italy ,0
-1900,Italy ,0
-1904,Italy ,0
-1906,Italy ,1
-1908,Italy ,2
-1912,Italy ,3
-1920,Italy ,9
-1924,Italy ,12
-1928,Italy ,16
-1932,Italy ,22
-1936,Italy ,42
-1948,Italy ,46
-1952,Italy ,55
-1956,Italy ,76
-1960,Italy ,153
-1964,Italy ,214
-1968,Italy ,254
-1972,Italy ,288
-1976,Italy ,322
-1980,Italy ,362
-1984,Italy ,427
-1988,Italy ,463
-1992,Italy ,526
-1994,Italy ,558
-1996,Italy ,629
-1998,Italy ,646
-2000,Italy ,711
-2002,Italy ,732
-2004,Italy ,836
-2006,Italy ,861
-2008,Italy ,903
-2010,Italy ,908
-2012,Italy ,974
-2014,Italy ,988
-2016,Italy ,1060
+1900,Italy ,5
+1904,Italy ,5
+1906,Italy ,61
+1908,Italy ,69
+1912,Italy ,94
+1920,Italy ,178
+1924,Italy ,229
+1928,Italy ,301
+1932,Italy ,378
+1936,Italy ,454
+1948,Italy ,522
+1952,Italy ,578
+1956,Italy ,633
+1960,Italy ,722
+1964,Italy ,783
+1968,Italy ,824
+1972,Italy ,858
+1976,Italy ,893
+1980,Italy ,933
+1984,Italy ,998
+1988,Italy ,1035
+1992,Italy ,1101
+1994,Italy ,1133
+1996,Italy ,1204
+1998,Italy ,1221
+2000,Italy ,1286
+2002,Italy ,1307
+2004,Italy ,1411
+2006,Italy ,1436
+2008,Italy ,1478
+2010,Italy ,1483
+2012,Italy ,1551
+2014,Italy ,1565
+2016,Italy ,1637
 1896,Jamaica ,0
 1900,Jamaica ,0
 1904,Jamaica ,0
@@ -2304,11 +2304,11 @@ Year,Country,Medal
 2002,Jamaica ,75
 2004,Jamaica ,88
 2006,Jamaica ,88
-2008,Jamaica ,101
-2010,Jamaica ,101
-2012,Jamaica ,126
-2014,Jamaica ,126
-2016,Jamaica ,154
+2008,Jamaica ,102
+2010,Jamaica ,102
+2012,Jamaica ,127
+2014,Jamaica ,127
+2016,Jamaica ,157
 1896,Jordan ,0
 1900,Jordan ,0
 1904,Jordan ,0
@@ -2350,35 +2350,35 @@ Year,Country,Medal
 1906,Japan ,0
 1908,Japan ,0
 1912,Japan ,0
-1920,Japan ,2
-1924,Japan ,2
-1928,Japan ,4
-1932,Japan ,11
-1936,Japan ,19
-1948,Japan ,19
-1952,Japan ,23
-1956,Japan ,37
-1960,Japan ,68
-1964,Japan ,130
-1968,Japan ,193
-1972,Japan ,252
-1976,Japan ,293
-1980,Japan ,294
-1984,Japan ,344
-1988,Japan ,365
-1992,Japan ,424
-1994,Japan ,434
-1996,Japan ,476
-1998,Japan ,489
-2000,Japan ,533
-2002,Japan ,535
-2004,Japan ,628
-2006,Japan ,629
-2008,Japan ,680
-2010,Japan ,687
-2012,Japan ,769
-2014,Japan ,779
-2016,Japan ,843
+1920,Japan ,3
+1924,Japan ,4
+1928,Japan ,13
+1932,Japan ,44
+1936,Japan ,67
+1948,Japan ,67
+1952,Japan ,79
+1956,Japan ,104
+1960,Japan ,135
+1964,Japan ,197
+1968,Japan ,260
+1972,Japan ,319
+1976,Japan ,360
+1980,Japan ,361
+1984,Japan ,411
+1988,Japan ,432
+1992,Japan ,491
+1994,Japan ,501
+1996,Japan ,543
+1998,Japan ,556
+2000,Japan ,600
+2002,Japan ,602
+2004,Japan ,695
+2006,Japan ,696
+2008,Japan ,747
+2010,Japan ,754
+2012,Japan ,838
+2014,Japan ,849
+2016,Japan ,913
 1896,Kazakhstan ,0
 1900,Kazakhstan ,0
 1904,Kazakhstan ,0
@@ -2403,17 +2403,17 @@ Year,Country,Medal
 1988,Kazakhstan ,0
 1992,Kazakhstan ,0
 1994,Kazakhstan ,3
-1996,Kazakhstan ,12
-1998,Kazakhstan ,14
-2000,Kazakhstan ,21
-2002,Kazakhstan ,21
-2004,Kazakhstan ,29
-2006,Kazakhstan ,29
-2008,Kazakhstan ,42
-2010,Kazakhstan ,43
-2012,Kazakhstan ,55
-2014,Kazakhstan ,56
-2016,Kazakhstan ,74
+1996,Kazakhstan ,14
+1998,Kazakhstan ,16
+2000,Kazakhstan ,23
+2002,Kazakhstan ,23
+2004,Kazakhstan ,31
+2006,Kazakhstan ,31
+2008,Kazakhstan ,44
+2010,Kazakhstan ,45
+2012,Kazakhstan ,58
+2014,Kazakhstan ,59
+2016,Kazakhstan ,77
 1896,Kenya ,0
 1900,Kenya ,0
 1904,Kenya ,0
@@ -2429,26 +2429,26 @@ Year,Country,Medal
 1952,Kenya ,0
 1956,Kenya ,0
 1960,Kenya ,0
-1964,Kenya ,0
-1968,Kenya ,10
-1972,Kenya ,22
-1976,Kenya ,22
-1980,Kenya ,22
-1984,Kenya ,24
-1988,Kenya ,33
-1992,Kenya ,41
-1994,Kenya ,41
-1996,Kenya ,49
-1998,Kenya ,49
-2000,Kenya ,56
-2002,Kenya ,56
-2004,Kenya ,63
-2006,Kenya ,63
-2008,Kenya ,77
-2010,Kenya ,77
-2012,Kenya ,88
-2014,Kenya ,88
-2016,Kenya ,100
+1964,Kenya ,1
+1968,Kenya ,13
+1972,Kenya ,25
+1976,Kenya ,25
+1980,Kenya ,25
+1984,Kenya ,28
+1988,Kenya ,37
+1992,Kenya ,45
+1994,Kenya ,45
+1996,Kenya ,53
+1998,Kenya ,53
+2000,Kenya ,60
+2002,Kenya ,60
+2004,Kenya ,67
+2006,Kenya ,67
+2008,Kenya ,82
+2010,Kenya ,82
+2012,Kenya ,93
+2014,Kenya ,93
+2016,Kenya ,106
 1896,Kyrgyzstan ,0
 1900,Kyrgyzstan ,0
 1904,Kyrgyzstan ,0
@@ -2495,30 +2495,30 @@ Year,Country,Medal
 1928,South Korea,0
 1932,South Korea,0
 1936,South Korea,0
-1948,South Korea,0
-1952,South Korea,0
-1956,South Korea,1
-1960,South Korea,1
-1964,South Korea,4
-1968,South Korea,6
-1972,South Korea,7
-1976,South Korea,24
-1980,South Korea,24
-1984,South Korea,65
-1988,South Korea,142
-1992,South Korea,168
-1994,South Korea,174
-1996,South Korea,206
-1998,South Korea,215
-2000,South Korea,287
-2002,South Korea,294
-2004,South Korea,346
-2006,South Korea,365
-2008,South Korea,442
-2010,South Korea,460
-2012,South Korea,521
-2014,South Korea,535
-2016,South Korea,561
+1948,South Korea,2
+1952,South Korea,4
+1956,South Korea,6
+1960,South Korea,6
+1964,South Korea,9
+1968,South Korea,11
+1972,South Korea,12
+1976,South Korea,29
+1980,South Korea,29
+1984,South Korea,70
+1988,South Korea,147
+1992,South Korea,203
+1994,South Korea,212
+1996,South Korea,278
+1998,South Korea,290
+2000,South Korea,363
+2002,South Korea,370
+2004,South Korea,422
+2006,South Korea,441
+2008,South Korea,519
+2010,South Korea,537
+2012,South Korea,598
+2014,South Korea,612
+2016,South Korea,638
 1896,Kosovo,0
 1900,Kosovo,0
 1904,Kosovo,0
@@ -2586,9 +2586,9 @@ Year,Country,Medal
 2006,Saudi Arabia ,2
 2008,Saudi Arabia ,2
 2010,Saudi Arabia ,2
-2012,Saudi Arabia ,5
-2014,Saudi Arabia ,5
-2016,Saudi Arabia ,5
+2012,Saudi Arabia ,6
+2014,Saudi Arabia ,6
+2016,Saudi Arabia ,6
 1896,Kuwait ,0
 1900,Kuwait ,0
 1904,Kuwait ,0
@@ -2633,32 +2633,32 @@ Year,Country,Medal
 1920,Latvia ,0
 1924,Latvia ,0
 1928,Latvia ,0
-1932,Latvia ,0
-1936,Latvia ,0
-1948,Latvia ,0
-1952,Latvia ,0
-1956,Latvia ,0
-1960,Latvia ,0
-1964,Latvia ,0
-1968,Latvia ,0
-1972,Latvia ,0
-1976,Latvia ,0
-1980,Latvia ,0
-1984,Latvia ,0
-1988,Latvia ,0
-1992,Latvia ,3
-1994,Latvia ,3
-1996,Latvia ,4
-1998,Latvia ,4
-2000,Latvia ,7
-2002,Latvia ,7
-2004,Latvia ,11
-2006,Latvia ,12
-2008,Latvia ,15
-2010,Latvia ,18
-2012,Latvia ,21
-2014,Latvia ,32
-2016,Latvia ,32
+1932,Latvia ,1
+1936,Latvia ,3
+1948,Latvia ,3
+1952,Latvia ,3
+1956,Latvia ,3
+1960,Latvia ,3
+1964,Latvia ,3
+1968,Latvia ,3
+1972,Latvia ,3
+1976,Latvia ,3
+1980,Latvia ,3
+1984,Latvia ,3
+1988,Latvia ,3
+1992,Latvia ,6
+1994,Latvia ,6
+1996,Latvia ,7
+1998,Latvia ,7
+2000,Latvia ,10
+2002,Latvia ,10
+2004,Latvia ,14
+2006,Latvia ,15
+2008,Latvia ,18
+2010,Latvia ,21
+2012,Latvia ,24
+2014,Latvia ,35
+2016,Latvia ,35
 1896,Lebanon ,0
 1900,Lebanon ,0
 1904,Lebanon ,0
@@ -2671,29 +2671,29 @@ Year,Country,Medal
 1932,Lebanon ,0
 1936,Lebanon ,0
 1948,Lebanon ,0
-1952,Lebanon ,0
-1956,Lebanon ,0
-1960,Lebanon ,0
-1964,Lebanon ,0
-1968,Lebanon ,0
-1972,Lebanon ,1
-1976,Lebanon ,1
-1980,Lebanon ,2
-1984,Lebanon ,2
-1988,Lebanon ,2
-1992,Lebanon ,2
-1994,Lebanon ,2
-1996,Lebanon ,2
-1998,Lebanon ,2
-2000,Lebanon ,2
-2002,Lebanon ,2
-2004,Lebanon ,2
-2006,Lebanon ,2
-2008,Lebanon ,2
-2010,Lebanon ,2
-2012,Lebanon ,2
-2014,Lebanon ,2
-2016,Lebanon ,2
+1952,Lebanon ,2
+1956,Lebanon ,2
+1960,Lebanon ,2
+1964,Lebanon ,2
+1968,Lebanon ,2
+1972,Lebanon ,3
+1976,Lebanon ,3
+1980,Lebanon ,4
+1984,Lebanon ,4
+1988,Lebanon ,4
+1992,Lebanon ,4
+1994,Lebanon ,4
+1996,Lebanon ,4
+1998,Lebanon ,4
+2000,Lebanon ,4
+2002,Lebanon ,4
+2004,Lebanon ,4
+2006,Lebanon ,4
+2008,Lebanon ,4
+2010,Lebanon ,4
+2012,Lebanon ,4
+2014,Lebanon ,4
+2016,Lebanon ,4
 1896,Liechtenstein ,0
 1900,Liechtenstein ,0
 1904,Liechtenstein ,0
@@ -2714,21 +2714,21 @@ Year,Country,Medal
 1972,Liechtenstein ,0
 1976,Liechtenstein ,2
 1980,Liechtenstein ,6
-1984,Liechtenstein ,7
-1988,Liechtenstein ,8
-1992,Liechtenstein ,8
-1994,Liechtenstein ,8
-1996,Liechtenstein ,8
-1998,Liechtenstein ,8
-2000,Liechtenstein ,8
-2002,Liechtenstein ,8
-2004,Liechtenstein ,8
-2006,Liechtenstein ,8
-2008,Liechtenstein ,8
-2010,Liechtenstein ,8
-2012,Liechtenstein ,8
-2014,Liechtenstein ,8
-2016,Liechtenstein ,8
+1984,Liechtenstein ,8
+1988,Liechtenstein ,9
+1992,Liechtenstein ,9
+1994,Liechtenstein ,9
+1996,Liechtenstein ,9
+1998,Liechtenstein ,9
+2000,Liechtenstein ,9
+2002,Liechtenstein ,9
+2004,Liechtenstein ,9
+2006,Liechtenstein ,9
+2008,Liechtenstein ,9
+2010,Liechtenstein ,9
+2012,Liechtenstein ,9
+2014,Liechtenstein ,9
+2016,Liechtenstein ,9
 1896,Lithuania ,0
 1900,Lithuania ,0
 1904,Lithuania ,0
@@ -2765,40 +2765,40 @@ Year,Country,Medal
 2014,Lithuania ,54
 2016,Lithuania ,61
 1896,Luxembourg ,0
-1900,Luxembourg ,0
-1904,Luxembourg ,0
-1906,Luxembourg ,0
-1908,Luxembourg ,0
-1912,Luxembourg ,0
-1920,Luxembourg ,0
-1924,Luxembourg ,0
-1928,Luxembourg ,0
-1932,Luxembourg ,0
-1936,Luxembourg ,0
-1948,Luxembourg ,0
-1952,Luxembourg ,1
-1956,Luxembourg ,1
-1960,Luxembourg ,1
-1964,Luxembourg ,1
-1968,Luxembourg ,1
-1972,Luxembourg ,1
-1976,Luxembourg ,1
-1980,Luxembourg ,1
-1984,Luxembourg ,1
-1988,Luxembourg ,1
-1992,Luxembourg ,3
-1994,Luxembourg ,3
-1996,Luxembourg ,3
-1998,Luxembourg ,3
-2000,Luxembourg ,3
-2002,Luxembourg ,3
-2004,Luxembourg ,3
-2006,Luxembourg ,3
-2008,Luxembourg ,3
-2010,Luxembourg ,3
-2012,Luxembourg ,3
-2014,Luxembourg ,3
-2016,Luxembourg ,3
+1900,Luxembourg ,1
+1904,Luxembourg ,1
+1906,Luxembourg ,1
+1908,Luxembourg ,1
+1912,Luxembourg ,1
+1920,Luxembourg ,2
+1924,Luxembourg ,4
+1928,Luxembourg ,5
+1932,Luxembourg ,5
+1936,Luxembourg ,5
+1948,Luxembourg ,5
+1952,Luxembourg ,6
+1956,Luxembourg ,6
+1960,Luxembourg ,6
+1964,Luxembourg ,6
+1968,Luxembourg ,6
+1972,Luxembourg ,6
+1976,Luxembourg ,6
+1980,Luxembourg ,6
+1984,Luxembourg ,6
+1988,Luxembourg ,6
+1992,Luxembourg ,8
+1994,Luxembourg ,8
+1996,Luxembourg ,8
+1998,Luxembourg ,8
+2000,Luxembourg ,8
+2002,Luxembourg ,8
+2004,Luxembourg ,8
+2006,Luxembourg ,8
+2008,Luxembourg ,8
+2010,Luxembourg ,8
+2012,Luxembourg ,8
+2014,Luxembourg ,8
+2016,Luxembourg ,8
 1896,Morocco ,0
 1900,Morocco ,0
 1904,Morocco ,0
@@ -2905,40 +2905,40 @@ Year,Country,Medal
 2014,Moldova ,8
 2016,Moldova ,8
 1896,Mexico ,0
-1900,Mexico ,0
-1904,Mexico ,0
-1906,Mexico ,0
-1908,Mexico ,0
-1912,Mexico ,0
-1920,Mexico ,0
-1924,Mexico ,0
-1928,Mexico ,0
-1932,Mexico ,0
-1936,Mexico ,0
-1948,Mexico ,0
-1952,Mexico ,0
-1956,Mexico ,0
-1960,Mexico ,1
-1964,Mexico ,2
-1968,Mexico ,11
-1972,Mexico ,12
-1976,Mexico ,14
-1980,Mexico ,24
-1984,Mexico ,30
-1988,Mexico ,32
-1992,Mexico ,33
-1994,Mexico ,33
-1996,Mexico ,34
-1998,Mexico ,34
-2000,Mexico ,40
-2002,Mexico ,40
-2004,Mexico ,44
-2006,Mexico ,44
-2008,Mexico ,48
-2010,Mexico ,48
-2012,Mexico ,71
-2014,Mexico ,71
-2016,Mexico ,76
+1900,Mexico ,3
+1904,Mexico ,3
+1906,Mexico ,3
+1908,Mexico ,3
+1912,Mexico ,3
+1920,Mexico ,3
+1924,Mexico ,3
+1928,Mexico ,3
+1932,Mexico ,5
+1936,Mexico ,21
+1948,Mexico ,30
+1952,Mexico ,31
+1956,Mexico ,33
+1960,Mexico ,34
+1964,Mexico ,35
+1968,Mexico ,44
+1972,Mexico ,45
+1976,Mexico ,47
+1980,Mexico ,57
+1984,Mexico ,63
+1988,Mexico ,65
+1992,Mexico ,66
+1994,Mexico ,66
+1996,Mexico ,67
+1998,Mexico ,67
+2000,Mexico ,73
+2002,Mexico ,73
+2004,Mexico ,77
+2006,Mexico ,77
+2008,Mexico ,81
+2010,Mexico ,81
+2012,Mexico ,105
+2014,Mexico ,105
+2016,Mexico ,110
 1896,Mongolia ,0
 1900,Mongolia ,0
 1904,Mongolia ,0
@@ -2969,11 +2969,11 @@ Year,Country,Medal
 2002,Mongolia ,14
 2004,Mongolia ,15
 2006,Mongolia ,15
-2008,Mongolia ,18
-2010,Mongolia ,18
-2012,Mongolia ,23
-2014,Mongolia ,23
-2016,Mongolia ,25
+2008,Mongolia ,19
+2010,Mongolia ,19
+2012,Mongolia ,24
+2014,Mongolia ,24
+2016,Mongolia ,26
 1896,Macedonia ,0
 1900,Macedonia ,0
 1904,Macedonia ,0
@@ -3150,40 +3150,40 @@ Year,Country,Medal
 2014,Namibia ,4
 2016,Namibia ,4
 1896,Netherlands ,0
-1900,Netherlands ,0
-1904,Netherlands ,0
-1906,Netherlands ,0
-1908,Netherlands ,0
-1912,Netherlands ,0
-1920,Netherlands ,0
-1924,Netherlands ,1
-1928,Netherlands ,3
-1932,Netherlands ,3
-1936,Netherlands ,5
-1948,Netherlands ,11
-1952,Netherlands ,12
-1956,Netherlands ,12
-1960,Netherlands ,17
-1964,Netherlands ,50
-1968,Netherlands ,73
-1972,Netherlands ,85
-1976,Netherlands ,105
-1980,Netherlands ,113
-1984,Netherlands ,154
-1988,Netherlands ,202
-1992,Netherlands ,237
-1994,Netherlands ,241
-1996,Netherlands ,303
-1998,Netherlands ,314
-2000,Netherlands ,393
-2002,Netherlands ,401
-2004,Netherlands ,478
-2006,Netherlands ,491
-2008,Netherlands ,552
-2010,Netherlands ,563
-2012,Netherlands ,632
-2014,Netherlands ,661
-2016,Netherlands ,708
+1900,Netherlands ,27
+1904,Netherlands ,27
+1906,Netherlands ,33
+1908,Netherlands ,49
+1912,Netherlands ,75
+1920,Netherlands ,125
+1924,Netherlands ,152
+1928,Netherlands ,209
+1932,Netherlands ,222
+1936,Netherlands ,259
+1948,Netherlands ,301
+1952,Netherlands ,322
+1956,Netherlands ,322
+1960,Netherlands ,327
+1964,Netherlands ,360
+1968,Netherlands ,383
+1972,Netherlands ,398
+1976,Netherlands ,418
+1980,Netherlands ,428
+1984,Netherlands ,469
+1988,Netherlands ,521
+1992,Netherlands ,558
+1994,Netherlands ,562
+1996,Netherlands ,635
+1998,Netherlands ,646
+2000,Netherlands ,725
+2002,Netherlands ,733
+2004,Netherlands ,810
+2006,Netherlands ,823
+2008,Netherlands ,884
+2010,Netherlands ,895
+2012,Netherlands ,964
+2014,Netherlands ,993
+2016,Netherlands ,1040
 1896,Nigeria ,0
 1900,Nigeria ,0
 1904,Nigeria ,0
@@ -3208,17 +3208,17 @@ Year,Country,Medal
 1988,Nigeria ,7
 1992,Nigeria ,18
 1994,Nigeria ,18
-1996,Nigeria ,40
-1998,Nigeria ,40
-2000,Nigeria ,48
-2002,Nigeria ,48
-2004,Nigeria ,56
-2006,Nigeria ,56
-2008,Nigeria ,79
-2010,Nigeria ,79
-2012,Nigeria ,79
-2014,Nigeria ,79
-2016,Nigeria ,96
+1996,Nigeria ,42
+1998,Nigeria ,42
+2000,Nigeria ,50
+2002,Nigeria ,50
+2004,Nigeria ,58
+2006,Nigeria ,58
+2008,Nigeria ,81
+2010,Nigeria ,81
+2012,Nigeria ,81
+2014,Nigeria ,81
+2016,Nigeria ,99
 1896,Niger ,0
 1900,Niger ,0
 1904,Niger ,0
@@ -3236,94 +3236,94 @@ Year,Country,Medal
 1960,Niger ,0
 1964,Niger ,0
 1968,Niger ,0
-1972,Niger ,0
-1976,Niger ,0
-1980,Niger ,0
-1984,Niger ,0
-1988,Niger ,0
-1992,Niger ,0
-1994,Niger ,0
-1996,Niger ,0
-1998,Niger ,0
-2000,Niger ,0
-2002,Niger ,0
-2004,Niger ,0
-2006,Niger ,0
-2008,Niger ,0
-2010,Niger ,0
-2012,Niger ,0
-2014,Niger ,0
-2016,Niger ,1
+1972,Niger ,1
+1976,Niger ,1
+1980,Niger ,1
+1984,Niger ,1
+1988,Niger ,1
+1992,Niger ,1
+1994,Niger ,1
+1996,Niger ,1
+1998,Niger ,1
+2000,Niger ,1
+2002,Niger ,1
+2004,Niger ,1
+2006,Niger ,1
+2008,Niger ,1
+2010,Niger ,1
+2012,Niger ,1
+2014,Niger ,1
+2016,Niger ,2
 1896,Norway ,0
-1900,Norway ,0
-1904,Norway ,0
-1906,Norway ,0
-1908,Norway ,5
-1912,Norway ,6
-1920,Norway ,7
-1924,Norway ,9
-1928,Norway ,11
-1932,Norway ,12
-1936,Norway ,13
-1948,Norway ,14
-1952,Norway ,17
-1956,Norway ,21
-1960,Norway ,26
-1964,Norway ,33
-1968,Norway ,60
-1972,Norway ,85
-1976,Norway ,101
-1980,Norway ,115
-1984,Norway ,133
-1988,Norway ,163
-1992,Norway ,206
-1994,Norway ,236
-1996,Norway ,258
-1998,Norway ,298
-2000,Norway ,341
-2002,Norway ,382
-2004,Norway ,389
-2006,Norway ,412
-2008,Norway ,427
-2010,Norway ,461
-2012,Norway ,472
-2014,Norway ,495
-2016,Norway ,514
+1900,Norway ,9
+1904,Norway ,11
+1906,Norway ,36
+1908,Norway ,78
+1912,Norway ,158
+1920,Norway ,295
+1924,Norway ,334
+1928,Norway ,358
+1932,Norway ,368
+1936,Norway ,414
+1948,Norway ,445
+1952,Norway ,477
+1956,Norway ,484
+1960,Norway ,495
+1964,Norway ,510
+1968,Norway ,538
+1972,Norway ,563
+1976,Norway ,579
+1980,Norway ,594
+1984,Norway ,613
+1988,Norway ,646
+1992,Norway ,693
+1994,Norway ,723
+1996,Norway ,746
+1998,Norway ,786
+2000,Norway ,829
+2002,Norway ,870
+2004,Norway ,877
+2006,Norway ,900
+2008,Norway ,922
+2010,Norway ,961
+2012,Norway ,978
+2014,Norway ,1014
+2016,Norway ,1033
 1896,New Zealand ,0
-1900,New Zealand ,0
-1904,New Zealand ,0
-1906,New Zealand ,0
-1908,New Zealand ,0
-1912,New Zealand ,0
-1920,New Zealand ,0
-1924,New Zealand ,1
-1928,New Zealand ,2
-1932,New Zealand ,2
-1936,New Zealand ,3
-1948,New Zealand ,3
-1952,New Zealand ,5
-1956,New Zealand ,7
-1960,New Zealand ,10
-1964,New Zealand ,16
-1968,New Zealand ,23
-1972,New Zealand ,35
-1976,New Zealand ,60
-1980,New Zealand ,60
-1984,New Zealand ,83
-1988,New Zealand ,106
-1992,New Zealand ,119
-1994,New Zealand ,119
-1996,New Zealand ,124
-1998,New Zealand ,124
-2000,New Zealand ,128
-2002,New Zealand ,128
-2004,New Zealand ,134
-2006,New Zealand ,134
-2008,New Zealand ,149
-2010,New Zealand ,149
-2012,New Zealand ,176
-2014,New Zealand ,176
-2016,New Zealand ,211
+1900,New Zealand ,1
+1904,New Zealand ,1
+1906,New Zealand ,1
+1908,New Zealand ,1
+1912,New Zealand ,1
+1920,New Zealand ,2
+1924,New Zealand ,3
+1928,New Zealand ,4
+1932,New Zealand ,6
+1936,New Zealand ,7
+1948,New Zealand ,7
+1952,New Zealand ,10
+1956,New Zealand ,13
+1960,New Zealand ,16
+1964,New Zealand ,22
+1968,New Zealand ,29
+1972,New Zealand ,43
+1976,New Zealand ,68
+1980,New Zealand ,68
+1984,New Zealand ,91
+1988,New Zealand ,115
+1992,New Zealand ,131
+1994,New Zealand ,131
+1996,New Zealand ,140
+1998,New Zealand ,140
+2000,New Zealand ,144
+2002,New Zealand ,144
+2004,New Zealand ,150
+2006,New Zealand ,150
+2008,New Zealand ,165
+2010,New Zealand ,165
+2012,New Zealand ,192
+2014,New Zealand ,192
+2016,New Zealand ,228
 1896,Pakistan ,0
 1900,Pakistan ,0
 1904,Pakistan ,0
@@ -3337,28 +3337,28 @@ Year,Country,Medal
 1936,Pakistan ,0
 1948,Pakistan ,0
 1952,Pakistan ,0
-1956,Pakistan ,10
-1960,Pakistan ,24
-1964,Pakistan ,40
-1968,Pakistan ,53
-1972,Pakistan ,68
-1976,Pakistan ,84
-1980,Pakistan ,84
-1984,Pakistan ,100
-1988,Pakistan ,100
-1992,Pakistan ,107
-1994,Pakistan ,107
-1996,Pakistan ,107
-1998,Pakistan ,107
-2000,Pakistan ,107
-2002,Pakistan ,107
-2004,Pakistan ,107
-2006,Pakistan ,107
-2008,Pakistan ,107
-2010,Pakistan ,107
-2012,Pakistan ,107
-2014,Pakistan ,107
-2016,Pakistan ,107
+1956,Pakistan ,14
+1960,Pakistan ,28
+1964,Pakistan ,44
+1968,Pakistan ,57
+1972,Pakistan ,72
+1976,Pakistan ,88
+1980,Pakistan ,88
+1984,Pakistan ,104
+1988,Pakistan ,105
+1992,Pakistan ,121
+1994,Pakistan ,121
+1996,Pakistan ,121
+1998,Pakistan ,121
+2000,Pakistan ,121
+2002,Pakistan ,121
+2004,Pakistan ,121
+2006,Pakistan ,121
+2008,Pakistan ,121
+2010,Pakistan ,121
+2012,Pakistan ,121
+2014,Pakistan ,121
+2016,Pakistan ,121
 1896,Panama ,0
 1900,Panama ,0
 1904,Panama ,0
@@ -3440,30 +3440,30 @@ Year,Country,Medal
 1928,Peru ,0
 1932,Peru ,0
 1936,Peru ,0
-1948,Peru ,0
-1952,Peru ,0
-1956,Peru ,0
-1960,Peru ,0
-1964,Peru ,0
-1968,Peru ,0
-1972,Peru ,0
-1976,Peru ,0
-1980,Peru ,0
-1984,Peru ,1
-1988,Peru ,13
-1992,Peru ,14
-1994,Peru ,14
-1996,Peru ,14
-1998,Peru ,14
-2000,Peru ,14
-2002,Peru ,14
-2004,Peru ,14
-2006,Peru ,14
-2008,Peru ,14
-2010,Peru ,14
-2012,Peru ,14
-2014,Peru ,14
-2016,Peru ,14
+1948,Peru ,1
+1952,Peru ,1
+1956,Peru ,1
+1960,Peru ,1
+1964,Peru ,1
+1968,Peru ,1
+1972,Peru ,1
+1976,Peru ,1
+1980,Peru ,1
+1984,Peru ,2
+1988,Peru ,14
+1992,Peru ,15
+1994,Peru ,15
+1996,Peru ,15
+1998,Peru ,15
+2000,Peru ,15
+2002,Peru ,15
+2004,Peru ,15
+2006,Peru ,15
+2008,Peru ,15
+2010,Peru ,15
+2012,Peru ,15
+2014,Peru ,15
+2016,Peru ,15
 1896,Philippines ,0
 1900,Philippines ,0
 1904,Philippines ,0
@@ -3473,32 +3473,32 @@ Year,Country,Medal
 1920,Philippines ,0
 1924,Philippines ,0
 1928,Philippines ,1
-1932,Philippines ,2
-1936,Philippines ,3
-1948,Philippines ,3
-1952,Philippines ,3
-1956,Philippines ,3
-1960,Philippines ,3
-1964,Philippines ,4
-1968,Philippines ,4
-1972,Philippines ,4
-1976,Philippines ,4
-1980,Philippines ,4
-1984,Philippines ,4
-1988,Philippines ,5
-1992,Philippines ,6
-1994,Philippines ,6
-1996,Philippines ,7
-1998,Philippines ,7
-2000,Philippines ,7
-2002,Philippines ,7
-2004,Philippines ,7
-2006,Philippines ,7
-2008,Philippines ,7
-2010,Philippines ,7
-2012,Philippines ,7
-2014,Philippines ,7
-2016,Philippines ,8
+1932,Philippines ,4
+1936,Philippines ,5
+1948,Philippines ,5
+1952,Philippines ,5
+1956,Philippines ,5
+1960,Philippines ,5
+1964,Philippines ,6
+1968,Philippines ,6
+1972,Philippines ,6
+1976,Philippines ,6
+1980,Philippines ,6
+1984,Philippines ,6
+1988,Philippines ,7
+1992,Philippines ,8
+1994,Philippines ,8
+1996,Philippines ,9
+1998,Philippines ,9
+2000,Philippines ,9
+2002,Philippines ,9
+2004,Philippines ,9
+2006,Philippines ,9
+2008,Philippines ,9
+2010,Philippines ,9
+2012,Philippines ,9
+2014,Philippines ,9
+2016,Philippines ,10
 1896,Poland ,0
 1900,Poland ,0
 1904,Poland ,0
@@ -3506,34 +3506,34 @@ Year,Country,Medal
 1908,Poland ,0
 1912,Poland ,0
 1920,Poland ,0
-1924,Poland ,4
-1928,Poland ,17
-1932,Poland ,35
-1936,Poland ,44
-1948,Poland ,44
-1952,Poland ,47
-1956,Poland ,67
-1960,Poland ,99
-1964,Poland ,145
-1968,Poland ,182
-1972,Poland ,229
-1976,Poland ,302
-1980,Poland ,352
-1984,Poland ,352
-1988,Poland ,373
-1992,Poland ,419
-1994,Poland ,419
-1996,Poland ,441
-1998,Poland ,441
-2000,Poland ,465
-2002,Poland ,467
-2004,Poland ,479
-2006,Poland ,481
-2008,Poland ,501
-2010,Poland ,509
-2012,Poland ,521
-2014,Poland ,532
-2016,Poland ,548
+1924,Poland ,5
+1928,Poland ,25
+1932,Poland ,46
+1936,Poland ,58
+1948,Poland ,60
+1952,Poland ,64
+1956,Poland ,84
+1960,Poland ,116
+1964,Poland ,162
+1968,Poland ,199
+1972,Poland ,246
+1976,Poland ,319
+1980,Poland ,369
+1984,Poland ,369
+1988,Poland ,390
+1992,Poland ,436
+1994,Poland ,436
+1996,Poland ,458
+1998,Poland ,458
+2000,Poland ,482
+2002,Poland ,484
+2004,Poland ,496
+2006,Poland ,498
+2008,Poland ,518
+2010,Poland ,526
+2012,Poland ,538
+2014,Poland ,549
+2016,Poland ,565
 1896,Portugal ,0
 1900,Portugal ,0
 1904,Portugal ,0
@@ -3541,34 +3541,34 @@ Year,Country,Medal
 1908,Portugal ,0
 1912,Portugal ,0
 1920,Portugal ,0
-1924,Portugal ,0
-1928,Portugal ,0
-1932,Portugal ,0
-1936,Portugal ,1
-1948,Portugal ,4
-1952,Portugal ,4
-1956,Portugal ,4
-1960,Portugal ,6
-1964,Portugal ,6
-1968,Portugal ,6
-1972,Portugal ,6
-1976,Portugal ,8
-1980,Portugal ,8
-1984,Portugal ,11
-1988,Portugal ,12
-1992,Portugal ,12
-1994,Portugal ,12
-1996,Portugal ,15
-1998,Portugal ,15
-2000,Portugal ,17
-2002,Portugal ,17
-2004,Portugal ,20
-2006,Portugal ,20
-2008,Portugal ,22
-2010,Portugal ,22
-2012,Portugal ,24
-2014,Portugal ,24
-2016,Portugal ,25
+1924,Portugal ,4
+1928,Portugal ,10
+1932,Portugal ,10
+1936,Portugal ,13
+1948,Portugal ,18
+1952,Portugal ,20
+1956,Portugal ,20
+1960,Portugal ,22
+1964,Portugal ,22
+1968,Portugal ,22
+1972,Portugal ,22
+1976,Portugal ,24
+1980,Portugal ,24
+1984,Portugal ,27
+1988,Portugal ,28
+1992,Portugal ,28
+1994,Portugal ,28
+1996,Portugal ,31
+1998,Portugal ,31
+2000,Portugal ,33
+2002,Portugal ,33
+2004,Portugal ,36
+2006,Portugal ,36
+2008,Portugal ,38
+2010,Portugal ,38
+2012,Portugal ,40
+2014,Portugal ,40
+2016,Portugal ,41
 1896,North Korea,0
 1900,North Korea,0
 1904,North Korea,0
@@ -3586,24 +3586,24 @@ Year,Country,Medal
 1960,North Korea,0
 1964,North Korea,1
 1968,North Korea,1
-1972,North Korea,15
-1976,North Korea,17
-1980,North Korea,22
-1984,North Korea,22
-1988,North Korea,22
-1992,North Korea,27
-1994,North Korea,27
-1996,North Korea,30
-1998,North Korea,30
-2000,North Korea,34
-2002,North Korea,34
-2004,North Korea,39
-2006,North Korea,39
-2008,North Korea,45
-2010,North Korea,45
-2012,North Korea,51
-2014,North Korea,51
-2016,North Korea,58
+1972,North Korea,16
+1976,North Korea,18
+1980,North Korea,23
+1984,North Korea,23
+1988,North Korea,23
+1992,North Korea,34
+1994,North Korea,34
+1996,North Korea,39
+1998,North Korea,39
+2000,North Korea,43
+2002,North Korea,43
+2004,North Korea,48
+2006,North Korea,48
+2008,North Korea,54
+2010,North Korea,54
+2012,North Korea,60
+2014,North Korea,60
+2016,North Korea,67
 1896,Puerto Rico,0
 1900,Puerto Rico,0
 1904,Puerto Rico,0
@@ -3615,30 +3615,30 @@ Year,Country,Medal
 1928,Puerto Rico,0
 1932,Puerto Rico,0
 1936,Puerto Rico,0
-1948,Puerto Rico,0
-1952,Puerto Rico,0
-1956,Puerto Rico,0
-1960,Puerto Rico,0
-1964,Puerto Rico,0
-1968,Puerto Rico,0
-1972,Puerto Rico,0
-1976,Puerto Rico,1
-1980,Puerto Rico,1
-1984,Puerto Rico,3
-1988,Puerto Rico,3
-1992,Puerto Rico,4
-1994,Puerto Rico,4
-1996,Puerto Rico,5
-1998,Puerto Rico,5
-2000,Puerto Rico,5
-2002,Puerto Rico,5
-2004,Puerto Rico,5
-2006,Puerto Rico,5
-2008,Puerto Rico,5
-2010,Puerto Rico,5
-2012,Puerto Rico,7
-2014,Puerto Rico,7
-2016,Puerto Rico,8
+1948,Puerto Rico,1
+1952,Puerto Rico,1
+1956,Puerto Rico,1
+1960,Puerto Rico,1
+1964,Puerto Rico,1
+1968,Puerto Rico,1
+1972,Puerto Rico,1
+1976,Puerto Rico,2
+1980,Puerto Rico,2
+1984,Puerto Rico,4
+1988,Puerto Rico,4
+1992,Puerto Rico,5
+1994,Puerto Rico,5
+1996,Puerto Rico,6
+1998,Puerto Rico,6
+2000,Puerto Rico,6
+2002,Puerto Rico,6
+2004,Puerto Rico,6
+2006,Puerto Rico,6
+2008,Puerto Rico,6
+2010,Puerto Rico,6
+2012,Puerto Rico,8
+2014,Puerto Rico,8
+2016,Puerto Rico,9
 1896,Qatar ,0
 1900,Qatar ,0
 1904,Qatar ,0
@@ -3681,104 +3681,104 @@ Year,Country,Medal
 1908,Romania ,0
 1912,Romania ,0
 1920,Romania ,0
-1924,Romania ,0
-1928,Romania ,0
-1932,Romania ,0
-1936,Romania ,0
-1948,Romania ,0
-1952,Romania ,1
-1956,Romania ,13
-1960,Romania ,28
-1964,Romania ,44
-1968,Romania ,69
-1972,Romania ,109
-1976,Romania ,163
-1980,Romania ,231
-1984,Romania ,337
-1988,Romania ,395
-1992,Romania ,429
-1994,Romania ,429
-1996,Romania ,461
-1998,Romania ,461
-2000,Romania ,507
-2002,Romania ,507
-2004,Romania ,546
-2006,Romania ,546
-2008,Romania ,568
-2010,Romania ,568
-2012,Romania ,581
-2014,Romania ,581
-2016,Romania ,597
+1924,Romania ,16
+1928,Romania ,16
+1932,Romania ,16
+1936,Romania ,17
+1948,Romania ,17
+1952,Romania ,21
+1956,Romania ,40
+1960,Romania ,55
+1964,Romania ,71
+1968,Romania ,96
+1972,Romania ,136
+1976,Romania ,191
+1980,Romania ,259
+1984,Romania ,365
+1988,Romania ,423
+1992,Romania ,476
+1994,Romania ,476
+1996,Romania ,514
+1998,Romania ,514
+2000,Romania ,560
+2002,Romania ,560
+2004,Romania ,599
+2006,Romania ,599
+2008,Romania ,621
+2010,Romania ,621
+2012,Romania ,637
+2014,Romania ,637
+2016,Romania ,653
 1896,South Africa ,0
 1900,South Africa ,0
 1904,South Africa ,0
 1906,South Africa ,0
-1908,South Africa ,1
-1912,South Africa ,2
-1920,South Africa ,6
-1924,South Africa ,7
-1928,South Africa ,8
-1932,South Africa ,9
-1936,South Africa ,9
-1948,South Africa ,9
-1952,South Africa ,10
-1956,South Africa ,12
-1960,South Africa ,15
-1964,South Africa ,15
-1968,South Africa ,15
-1972,South Africa ,15
-1976,South Africa ,15
-1980,South Africa ,15
-1984,South Africa ,15
-1988,South Africa ,15
-1992,South Africa ,18
-1994,South Africa ,18
-1996,South Africa ,22
-1998,South Africa ,22
-2000,South Africa ,27
-2002,South Africa ,27
-2004,South Africa ,37
-2006,South Africa ,37
-2008,South Africa ,38
-2010,South Africa ,38
-2012,South Africa ,47
-2014,South Africa ,47
-2016,South Africa ,69
-1896,Russian Federation ,0
-1900,Russian Federation ,0
-1904,Russian Federation ,0
-1906,Russian Federation ,0
-1908,Russian Federation ,0
-1912,Russian Federation ,2
-1920,Russian Federation ,2
-1924,Russian Federation ,2
-1928,Russian Federation ,2
-1932,Russian Federation ,2
-1936,Russian Federation ,2
-1948,Russian Federation ,2
-1952,Russian Federation ,2
-1956,Russian Federation ,2
-1960,Russian Federation ,2
-1964,Russian Federation ,2
-1968,Russian Federation ,2
-1972,Russian Federation ,2
-1976,Russian Federation ,2
-1980,Russian Federation ,2
-1984,Russian Federation ,2
-1988,Russian Federation ,2
-1992,Russian Federation ,2
-1994,Russian Federation ,35
-1996,Russian Federation ,149
-1998,Russian Federation ,201
-2000,Russian Federation ,387
-2002,Russian Federation ,425
-2004,Russian Federation ,614
-2006,Russian Federation ,655
-2008,Russian Federation ,797
-2010,Russian Federation ,822
-2012,Russian Federation ,961
-2014,Russian Federation ,1019
-2016,Russian Federation ,1134
+1908,South Africa ,2
+1912,South Africa ,9
+1920,South Africa ,30
+1924,South Africa ,33
+1928,South Africa ,39
+1932,South Africa ,44
+1936,South Africa ,45
+1948,South Africa ,51
+1952,South Africa ,65
+1956,South Africa ,72
+1960,South Africa ,75
+1964,South Africa ,75
+1968,South Africa ,75
+1972,South Africa ,75
+1976,South Africa ,75
+1980,South Africa ,75
+1984,South Africa ,75
+1988,South Africa ,75
+1992,South Africa ,78
+1994,South Africa ,78
+1996,South Africa ,83
+1998,South Africa ,83
+2000,South Africa ,88
+2002,South Africa ,88
+2004,South Africa ,98
+2006,South Africa ,98
+2008,South Africa ,99
+2010,South Africa ,99
+2012,South Africa ,108
+2014,South Africa ,108
+2016,South Africa ,131
+1896,Russia,0
+1900,Russia,0
+1904,Russia,0
+1906,Russia,0
+1908,Russia,3
+1912,Russia,17
+1920,Russia,17
+1924,Russia,17
+1928,Russia,17
+1932,Russia,17
+1936,Russia,17
+1948,Russia,17
+1952,Russia,17
+1956,Russia,17
+1960,Russia,17
+1964,Russia,17
+1968,Russia,17
+1972,Russia,17
+1976,Russia,17
+1980,Russia,17
+1984,Russia,17
+1988,Russia,17
+1992,Russia,17
+1994,Russia,53
+1996,Russia,168
+1998,Russia,220
+2000,Russia,407
+2002,Russia,445
+2004,Russia,634
+2006,Russia,675
+2008,Russia,817
+2010,Russia,842
+2012,Russia,982
+2014,Russia,1050
+2016,Russia,1165
 1896,Serbia and Montenegro,0
 1900,Serbia and Montenegro,0
 1904,Serbia and Montenegro,0
@@ -3803,17 +3803,17 @@ Year,Country,Medal
 1988,Serbia and Montenegro,0
 1992,Serbia and Montenegro,0
 1994,Serbia and Montenegro,0
-1996,Serbia and Montenegro,23
-1998,Serbia and Montenegro,23
-2000,Serbia and Montenegro,48
-2002,Serbia and Montenegro,48
-2004,Serbia and Montenegro,61
-2006,Serbia and Montenegro,61
-2008,Serbia and Montenegro,61
-2010,Serbia and Montenegro,61
-2012,Serbia and Montenegro,61
-2014,Serbia and Montenegro,61
-2016,Serbia and Montenegro,61
+1996,Serbia and Montenegro,26
+1998,Serbia and Montenegro,26
+2000,Serbia and Montenegro,51
+2002,Serbia and Montenegro,51
+2004,Serbia and Montenegro,64
+2006,Serbia and Montenegro,64
+2008,Serbia and Montenegro,64
+2010,Serbia and Montenegro,64
+2012,Serbia and Montenegro,64
+2014,Serbia and Montenegro,64
+2016,Serbia and Montenegro,64
 1896,Senegal ,0
 1900,Senegal ,0
 1904,Senegal ,0
@@ -3906,19 +3906,19 @@ Year,Country,Medal
 1980,Slovenia ,0
 1984,Slovenia ,0
 1988,Slovenia ,0
-1992,Slovenia ,5
-1994,Slovenia ,8
-1996,Slovenia ,10
-1998,Slovenia ,10
-2000,Slovenia ,13
-2002,Slovenia ,17
-2004,Slovenia ,22
-2006,Slovenia ,22
-2008,Slovenia ,27
-2010,Slovenia ,30
-2012,Slovenia ,35
-2014,Slovenia ,43
-2016,Slovenia ,47
+1992,Slovenia ,6
+1994,Slovenia ,9
+1996,Slovenia ,11
+1998,Slovenia ,11
+2000,Slovenia ,14
+2002,Slovenia ,18
+2004,Slovenia ,23
+2006,Slovenia ,23
+2008,Slovenia ,28
+2010,Slovenia ,31
+2012,Slovenia ,36
+2014,Slovenia ,44
+2016,Slovenia ,48
 1896,Serbia ,0
 1900,Serbia ,0
 1904,Serbia ,0
@@ -3965,30 +3965,30 @@ Year,Country,Medal
 1928,Sri Lanka ,0
 1932,Sri Lanka ,0
 1936,Sri Lanka ,0
-1948,Sri Lanka ,0
-1952,Sri Lanka ,0
-1956,Sri Lanka ,0
-1960,Sri Lanka ,0
-1964,Sri Lanka ,0
-1968,Sri Lanka ,0
-1972,Sri Lanka ,0
-1976,Sri Lanka ,0
-1980,Sri Lanka ,0
-1984,Sri Lanka ,0
-1988,Sri Lanka ,0
-1992,Sri Lanka ,0
-1994,Sri Lanka ,0
-1996,Sri Lanka ,0
-1998,Sri Lanka ,0
-2000,Sri Lanka ,1
-2002,Sri Lanka ,1
-2004,Sri Lanka ,1
-2006,Sri Lanka ,1
-2008,Sri Lanka ,1
-2010,Sri Lanka ,1
-2012,Sri Lanka ,1
-2014,Sri Lanka ,1
-2016,Sri Lanka ,1
+1948,Sri Lanka ,1
+1952,Sri Lanka ,1
+1956,Sri Lanka ,1
+1960,Sri Lanka ,1
+1964,Sri Lanka ,1
+1968,Sri Lanka ,1
+1972,Sri Lanka ,1
+1976,Sri Lanka ,1
+1980,Sri Lanka ,1
+1984,Sri Lanka ,1
+1988,Sri Lanka ,1
+1992,Sri Lanka ,1
+1994,Sri Lanka ,1
+1996,Sri Lanka ,1
+1998,Sri Lanka ,1
+2000,Sri Lanka ,2
+2002,Sri Lanka ,2
+2004,Sri Lanka ,2
+2006,Sri Lanka ,2
+2008,Sri Lanka ,2
+2010,Sri Lanka ,2
+2012,Sri Lanka ,2
+2014,Sri Lanka ,2
+2016,Sri Lanka ,2
 1896,Sudan ,0
 1900,Sudan ,0
 1904,Sudan ,0
@@ -4024,41 +4024,41 @@ Year,Country,Medal
 2012,Sudan ,1
 2014,Sudan ,1
 2016,Sudan ,1
-1896,Switzerland ,0
-1900,Switzerland ,0
-1904,Switzerland ,0
-1906,Switzerland ,0
-1908,Switzerland ,0
-1912,Switzerland ,0
-1920,Switzerland ,0
-1924,Switzerland ,2
-1928,Switzerland ,2
-1932,Switzerland ,3
-1936,Switzerland ,6
-1948,Switzerland ,8
-1952,Switzerland ,16
-1956,Switzerland ,19
-1960,Switzerland ,31
-1964,Switzerland ,36
-1968,Switzerland ,58
-1972,Switzerland ,83
-1976,Switzerland ,102
-1980,Switzerland ,113
-1984,Switzerland ,134
-1988,Switzerland ,162
-1992,Switzerland ,170
-1994,Switzerland ,186
-1996,Switzerland ,197
-1998,Switzerland ,211
-2000,Switzerland ,225
-2002,Switzerland ,249
-2004,Switzerland ,256
-2006,Switzerland ,277
-2008,Switzerland ,288
-2010,Switzerland ,300
-2012,Switzerland ,304
-2014,Switzerland ,334
-2016,Switzerland ,345
+1896,Switzerland ,3
+1900,Switzerland ,24
+1904,Switzerland ,27
+1906,Switzerland ,39
+1908,Switzerland ,39
+1912,Switzerland ,41
+1920,Switzerland ,70
+1924,Switzerland ,139
+1928,Switzerland ,181
+1932,Switzerland ,184
+1936,Switzerland ,246
+1948,Switzerland ,310
+1952,Switzerland ,349
+1956,Switzerland ,362
+1960,Switzerland ,376
+1964,Switzerland ,382
+1968,Switzerland ,404
+1972,Switzerland ,429
+1976,Switzerland ,448
+1980,Switzerland ,459
+1984,Switzerland ,480
+1988,Switzerland ,508
+1992,Switzerland ,516
+1994,Switzerland ,532
+1996,Switzerland ,543
+1998,Switzerland ,557
+2000,Switzerland ,571
+2002,Switzerland ,595
+2004,Switzerland ,602
+2006,Switzerland ,623
+2008,Switzerland ,634
+2010,Switzerland ,646
+2012,Switzerland ,650
+2014,Switzerland ,680
+2016,Switzerland ,691
 1896,Suriname ,0
 1900,Suriname ,0
 1904,Suriname ,0
@@ -4130,40 +4130,40 @@ Year,Country,Medal
 2014,Slovakia ,39
 2016,Slovakia ,47
 1896,Sweden ,0
-1900,Sweden ,0
-1904,Sweden ,0
-1906,Sweden ,11
-1908,Sweden ,18
-1912,Sweden ,50
-1920,Sweden ,72
-1924,Sweden ,78
-1928,Sweden ,83
-1932,Sweden ,84
-1936,Sweden ,90
-1948,Sweden ,110
-1952,Sweden ,123
-1956,Sweden ,137
-1960,Sweden ,147
-1964,Sweden ,189
-1968,Sweden ,214
-1972,Sweden ,240
-1976,Sweden ,252
-1980,Sweden ,295
-1984,Sweden ,359
-1988,Sweden ,404
-1992,Sweden ,446
-1994,Sweden ,470
-1996,Sweden ,500
-1998,Sweden ,507
-2000,Sweden ,539
-2002,Sweden ,565
-2004,Sweden ,577
-2006,Sweden ,641
-2008,Sweden ,648
-2010,Sweden ,666
-2012,Sweden ,688
-2014,Sweden ,737
-2016,Sweden ,765
+1900,Sweden ,4
+1904,Sweden ,4
+1906,Sweden ,25
+1908,Sweden ,109
+1912,Sweden ,299
+1920,Sweden ,453
+1924,Sweden ,534
+1928,Sweden ,587
+1932,Sweden ,622
+1936,Sweden ,667
+1948,Sweden ,755
+1952,Sweden ,848
+1956,Sweden ,897
+1960,Sweden ,913
+1964,Sweden ,956
+1968,Sweden ,981
+1972,Sweden ,1007
+1976,Sweden ,1019
+1980,Sweden ,1062
+1984,Sweden ,1126
+1988,Sweden ,1172
+1992,Sweden ,1214
+1994,Sweden ,1238
+1996,Sweden ,1269
+1998,Sweden ,1276
+2000,Sweden ,1308
+2002,Sweden ,1334
+2004,Sweden ,1346
+2006,Sweden ,1410
+2008,Sweden ,1417
+2010,Sweden ,1435
+2012,Sweden ,1457
+2014,Sweden ,1508
+2016,Sweden ,1536
 1896,Syria ,0
 1900,Syria ,0
 1904,Syria ,0
@@ -4184,21 +4184,21 @@ Year,Country,Medal
 1972,Syria ,0
 1976,Syria ,0
 1980,Syria ,0
-1984,Syria ,0
-1988,Syria ,0
-1992,Syria ,0
-1994,Syria ,0
-1996,Syria ,1
-1998,Syria ,1
-2000,Syria ,1
-2002,Syria ,1
-2004,Syria ,2
-2006,Syria ,2
-2008,Syria ,2
-2010,Syria ,2
-2012,Syria ,2
-2014,Syria ,2
-2016,Syria ,2
+1984,Syria ,1
+1988,Syria ,1
+1992,Syria ,1
+1994,Syria ,1
+1996,Syria ,2
+1998,Syria ,2
+2000,Syria ,2
+2002,Syria ,2
+2004,Syria ,3
+2006,Syria ,3
+2008,Syria ,3
+2010,Syria ,3
+2012,Syria ,3
+2014,Syria ,3
+2016,Syria ,3
 1896,Tanzania ,0
 1900,Tanzania ,0
 1904,Tanzania ,0
@@ -4240,35 +4240,35 @@ Year,Country,Medal
 1906,Czechoslovakia,0
 1908,Czechoslovakia,0
 1912,Czechoslovakia,0
-1920,Czechoslovakia,0
-1924,Czechoslovakia,0
-1928,Czechoslovakia,1
-1932,Czechoslovakia,4
-1936,Czechoslovakia,5
-1948,Czechoslovakia,8
-1952,Czechoslovakia,17
-1956,Czechoslovakia,21
-1960,Czechoslovakia,44
-1964,Czechoslovakia,115
-1968,Czechoslovakia,165
-1972,Czechoslovakia,214
-1976,Czechoslovakia,247
-1980,Czechoslovakia,299
-1984,Czechoslovakia,327
-1988,Czechoslovakia,341
-1992,Czechoslovakia,375
-1994,Czechoslovakia,375
-1996,Czechoslovakia,375
-1998,Czechoslovakia,375
-2000,Czechoslovakia,375
-2002,Czechoslovakia,375
-2004,Czechoslovakia,375
-2006,Czechoslovakia,375
-2008,Czechoslovakia,375
-2010,Czechoslovakia,375
-2012,Czechoslovakia,375
-2014,Czechoslovakia,375
-2016,Czechoslovakia,375
+1920,Czechoslovakia,10
+1924,Czechoslovakia,20
+1928,Czechoslovakia,37
+1932,Czechoslovakia,43
+1936,Czechoslovakia,61
+1948,Czechoslovakia,98
+1952,Czechoslovakia,123
+1956,Czechoslovakia,130
+1960,Czechoslovakia,153
+1964,Czechoslovakia,224
+1968,Czechoslovakia,274
+1972,Czechoslovakia,323
+1976,Czechoslovakia,357
+1980,Czechoslovakia,409
+1984,Czechoslovakia,437
+1988,Czechoslovakia,453
+1992,Czechoslovakia,488
+1994,Czechoslovakia,488
+1996,Czechoslovakia,488
+1998,Czechoslovakia,488
+2000,Czechoslovakia,488
+2002,Czechoslovakia,488
+2004,Czechoslovakia,488
+2006,Czechoslovakia,488
+2008,Czechoslovakia,488
+2010,Czechoslovakia,488
+2012,Czechoslovakia,488
+2014,Czechoslovakia,488
+2016,Czechoslovakia,488
 1896,Tonga ,0
 1900,Tonga ,0
 1904,Tonga ,0
@@ -4455,30 +4455,30 @@ Year,Country,Medal
 1928,Trinidad and Tobago,0
 1932,Trinidad and Tobago,0
 1936,Trinidad and Tobago,0
-1948,Trinidad and Tobago,0
-1952,Trinidad and Tobago,0
-1956,Trinidad and Tobago,0
-1960,Trinidad and Tobago,0
-1964,Trinidad and Tobago,6
-1968,Trinidad and Tobago,6
-1972,Trinidad and Tobago,6
-1976,Trinidad and Tobago,7
-1980,Trinidad and Tobago,7
-1984,Trinidad and Tobago,7
-1988,Trinidad and Tobago,7
-1992,Trinidad and Tobago,7
-1994,Trinidad and Tobago,7
-1996,Trinidad and Tobago,9
-1998,Trinidad and Tobago,9
-2000,Trinidad and Tobago,11
-2002,Trinidad and Tobago,11
-2004,Trinidad and Tobago,12
-2006,Trinidad and Tobago,12
-2008,Trinidad and Tobago,18
-2010,Trinidad and Tobago,18
-2012,Trinidad and Tobago,28
-2014,Trinidad and Tobago,28
-2016,Trinidad and Tobago,29
+1948,Trinidad and Tobago,1
+1952,Trinidad and Tobago,3
+1956,Trinidad and Tobago,3
+1960,Trinidad and Tobago,3
+1964,Trinidad and Tobago,9
+1968,Trinidad and Tobago,9
+1972,Trinidad and Tobago,9
+1976,Trinidad and Tobago,10
+1980,Trinidad and Tobago,10
+1984,Trinidad and Tobago,10
+1988,Trinidad and Tobago,10
+1992,Trinidad and Tobago,10
+1994,Trinidad and Tobago,10
+1996,Trinidad and Tobago,12
+1998,Trinidad and Tobago,12
+2000,Trinidad and Tobago,14
+2002,Trinidad and Tobago,14
+2004,Trinidad and Tobago,15
+2006,Trinidad and Tobago,15
+2008,Trinidad and Tobago,21
+2010,Trinidad and Tobago,21
+2012,Trinidad and Tobago,31
+2014,Trinidad and Tobago,31
+2016,Trinidad and Tobago,32
 1896,Tunisia ,0
 1900,Tunisia ,0
 1904,Tunisia ,0
@@ -4503,17 +4503,17 @@ Year,Country,Medal
 1988,Tunisia ,5
 1992,Tunisia ,5
 1994,Tunisia ,5
-1996,Tunisia ,5
-1998,Tunisia ,5
-2000,Tunisia ,5
-2002,Tunisia ,5
-2004,Tunisia ,5
-2006,Tunisia ,5
-2008,Tunisia ,6
-2010,Tunisia ,6
-2012,Tunisia ,9
-2014,Tunisia ,9
-2016,Tunisia ,12
+1996,Tunisia ,6
+1998,Tunisia ,6
+2000,Tunisia ,6
+2002,Tunisia ,6
+2004,Tunisia ,6
+2006,Tunisia ,6
+2008,Tunisia ,7
+2010,Tunisia ,7
+2012,Tunisia ,10
+2014,Tunisia ,10
+2016,Tunisia ,13
 1896,Turkey ,0
 1900,Turkey ,0
 1904,Turkey ,0
@@ -4524,31 +4524,31 @@ Year,Country,Medal
 1924,Turkey ,0
 1928,Turkey ,0
 1932,Turkey ,0
-1936,Turkey ,0
-1948,Turkey ,0
-1952,Turkey ,0
-1956,Turkey ,3
-1960,Turkey ,10
-1964,Turkey ,15
-1968,Turkey ,17
-1972,Turkey ,18
-1976,Turkey ,18
-1980,Turkey ,18
-1984,Turkey ,21
-1988,Turkey ,23
-1992,Turkey ,28
-1994,Turkey ,28
-1996,Turkey ,34
-1998,Turkey ,34
-2000,Turkey ,39
-2002,Turkey ,39
-2004,Turkey ,50
-2006,Turkey ,50
-2008,Turkey ,57
-2010,Turkey ,57
-2012,Turkey ,62
-2014,Turkey ,62
-2016,Turkey ,70
+1936,Turkey ,2
+1948,Turkey ,14
+1952,Turkey ,17
+1956,Turkey ,24
+1960,Turkey ,33
+1964,Turkey ,39
+1968,Turkey ,41
+1972,Turkey ,42
+1976,Turkey ,42
+1980,Turkey ,42
+1984,Turkey ,45
+1988,Turkey ,47
+1992,Turkey ,53
+1994,Turkey ,53
+1996,Turkey ,59
+1998,Turkey ,59
+2000,Turkey ,64
+2002,Turkey ,64
+2004,Turkey ,75
+2006,Turkey ,75
+2008,Turkey ,82
+2010,Turkey ,82
+2012,Turkey ,87
+2014,Turkey ,87
+2016,Turkey ,95
 1896,United Arab Emirates ,0
 1900,United Arab Emirates ,0
 1904,United Arab Emirates ,0
@@ -4643,17 +4643,17 @@ Year,Country,Medal
 1988,Ukraine ,0
 1992,Ukraine ,0
 1994,Ukraine ,2
-1996,Ukraine ,32
-1998,Ukraine ,33
-2000,Ukraine ,67
-2002,Ukraine ,67
-2004,Ukraine ,114
-2006,Ukraine ,117
-2008,Ukraine ,148
-2010,Ukraine ,148
-2012,Ukraine ,174
-2014,Ukraine ,179
-2016,Ukraine ,194
+1996,Ukraine ,36
+1998,Ukraine ,37
+2000,Ukraine ,72
+2002,Ukraine ,72
+2004,Ukraine ,119
+2006,Ukraine ,122
+2008,Ukraine ,153
+2010,Ukraine ,153
+2012,Ukraine ,179
+2014,Ukraine ,184
+2016,Ukraine ,199
 1896,Soviet Union,0
 1900,Soviet Union,0
 1904,Soviet Union,0
@@ -4666,29 +4666,29 @@ Year,Country,Medal
 1932,Soviet Union,0
 1936,Soviet Union,0
 1948,Soviet Union,0
-1952,Soviet Union,25
-1956,Soviet Union,128
-1960,Soviet Union,323
-1964,Soviet Union,537
-1968,Soviet Union,764
-1972,Soviet Union,1017
-1976,Soviet Union,1343
-1980,Soviet Union,1825
-1984,Soviet Union,1881
-1988,Soviet Union,2246
-1992,Soviet Union,2246
-1994,Soviet Union,2246
-1996,Soviet Union,2246
-1998,Soviet Union,2246
-2000,Soviet Union,2246
-2002,Soviet Union,2246
-2004,Soviet Union,2246
-2006,Soviet Union,2246
-2008,Soviet Union,2246
-2010,Soviet Union,2246
-2012,Soviet Union,2246
-2014,Soviet Union,2246
-2016,Soviet Union,2246
+1952,Soviet Union,117
+1956,Soviet Union,323
+1960,Soviet Union,534
+1964,Soviet Union,755
+1968,Soviet Union,984
+1972,Soviet Union,1243
+1976,Soviet Union,1585
+1980,Soviet Union,2081
+1984,Soviet Union,2137
+1988,Soviet Union,2503
+1992,Soviet Union,2503
+1994,Soviet Union,2503
+1996,Soviet Union,2503
+1998,Soviet Union,2503
+2000,Soviet Union,2503
+2002,Soviet Union,2503
+2004,Soviet Union,2503
+2006,Soviet Union,2503
+2008,Soviet Union,2503
+2010,Soviet Union,2503
+2012,Soviet Union,2503
+2014,Soviet Union,2503
+2016,Soviet Union,2503
 1896,Uruguay ,0
 1900,Uruguay ,0
 1904,Uruguay ,0
@@ -4696,69 +4696,69 @@ Year,Country,Medal
 1908,Uruguay ,0
 1912,Uruguay ,0
 1920,Uruguay ,0
-1924,Uruguay ,6
-1928,Uruguay ,14
-1932,Uruguay ,14
-1936,Uruguay ,14
-1948,Uruguay ,14
-1952,Uruguay ,16
-1956,Uruguay ,22
-1960,Uruguay ,22
-1964,Uruguay ,23
-1968,Uruguay ,23
-1972,Uruguay ,23
-1976,Uruguay ,23
-1980,Uruguay ,23
-1984,Uruguay ,23
-1988,Uruguay ,23
-1992,Uruguay ,23
-1994,Uruguay ,23
-1996,Uruguay ,23
-1998,Uruguay ,23
-2000,Uruguay ,24
-2002,Uruguay ,24
-2004,Uruguay ,24
-2006,Uruguay ,24
-2008,Uruguay ,24
-2010,Uruguay ,24
-2012,Uruguay ,24
-2014,Uruguay ,24
-2016,Uruguay ,24
-1896,United States ,12
-1900,United States ,33
-1904,United States ,81
-1906,United States ,103
-1908,United States ,147
-1912,United States ,195
-1920,United States ,256
-1924,United States ,314
-1928,United States ,364
-1932,United States ,426
-1936,United States ,478
-1948,United States ,537
-1952,United States ,620
-1956,United States ,760
-1960,United States ,903
-1964,United States ,1080
-1968,United States ,1253
-1972,United States ,1448
-1976,United States ,1622
-1980,United States ,1651
-1984,United States ,2012
-1988,United States ,2226
-1992,United States ,2463
-1994,United States ,2482
-1996,United States ,2723
-1998,United States ,2757
-2000,United States ,2998
-2002,United States ,3081
-2004,United States ,3343
-2006,United States ,3395
-2008,United States ,3711
-2010,United States ,3808
-2012,United States ,4056
-2014,United States ,4120
-2016,United States ,4383
+1924,Uruguay ,14
+1928,Uruguay ,31
+1932,Uruguay ,32
+1936,Uruguay ,32
+1948,Uruguay ,35
+1952,Uruguay ,49
+1956,Uruguay ,61
+1960,Uruguay ,61
+1964,Uruguay ,62
+1968,Uruguay ,62
+1972,Uruguay ,62
+1976,Uruguay ,62
+1980,Uruguay ,62
+1984,Uruguay ,62
+1988,Uruguay ,62
+1992,Uruguay ,62
+1994,Uruguay ,62
+1996,Uruguay ,62
+1998,Uruguay ,62
+2000,Uruguay ,63
+2002,Uruguay ,63
+2004,Uruguay ,63
+2006,Uruguay ,63
+2008,Uruguay ,63
+2010,Uruguay ,63
+2012,Uruguay ,63
+2014,Uruguay ,63
+2016,Uruguay ,63
+1896,United States ,20
+1900,United States ,83
+1904,United States ,477
+1906,United States ,501
+1908,United States ,566
+1912,United States ,673
+1920,United States ,867
+1924,United States ,1061
+1928,United States ,1163
+1932,United States ,1386
+1936,United States ,1498
+1948,United States ,1666
+1952,United States ,1830
+1956,United States ,1979
+1960,United States ,2131
+1964,United States ,2308
+1968,United States ,2481
+1972,United States ,2676
+1976,United States ,2851
+1980,United States ,2881
+1984,United States ,3242
+1988,United States ,3456
+1992,United States ,3694
+1994,United States ,3713
+1996,United States ,3972
+1998,United States ,4006
+2000,United States ,4248
+2002,United States ,4332
+2004,United States ,4595
+2006,United States ,4647
+2008,United States ,4964
+2010,United States ,5061
+2012,United States ,5309
+2014,United States ,5373
+2016,United States ,5637
 1896,Uzbekistan ,0
 1900,Uzbekistan ,0
 1904,Uzbekistan ,0
@@ -4906,34 +4906,34 @@ Year,Country,Medal
 1908,Yugoslavia,0
 1912,Yugoslavia,0
 1920,Yugoslavia,0
-1924,Yugoslavia,0
-1928,Yugoslavia,0
-1932,Yugoslavia,0
-1936,Yugoslavia,0
-1948,Yugoslavia,1
-1952,Yugoslavia,4
-1956,Yugoslavia,10
-1960,Yugoslavia,27
-1964,Yugoslavia,42
-1968,Yugoslavia,71
-1972,Yugoslavia,89
-1976,Yugoslavia,108
-1980,Yugoslavia,164
-1984,Yugoslavia,252
-1988,Yugoslavia,321
-1992,Yugoslavia,321
-1994,Yugoslavia,321
-1996,Yugoslavia,321
-1998,Yugoslavia,321
-2000,Yugoslavia,321
-2002,Yugoslavia,321
-2004,Yugoslavia,321
-2006,Yugoslavia,321
-2008,Yugoslavia,321
-2010,Yugoslavia,321
-2012,Yugoslavia,321
-2014,Yugoslavia,321
-2016,Yugoslavia,321
+1924,Yugoslavia,2
+1928,Yugoslavia,14
+1932,Yugoslavia,14
+1936,Yugoslavia,15
+1948,Yugoslavia,31
+1952,Yugoslavia,55
+1956,Yugoslavia,78
+1960,Yugoslavia,95
+1964,Yugoslavia,110
+1968,Yugoslavia,139
+1972,Yugoslavia,157
+1976,Yugoslavia,176
+1980,Yugoslavia,233
+1984,Yugoslavia,321
+1988,Yugoslavia,390
+1992,Yugoslavia,390
+1994,Yugoslavia,390
+1996,Yugoslavia,390
+1998,Yugoslavia,390
+2000,Yugoslavia,390
+2002,Yugoslavia,390
+2004,Yugoslavia,390
+2006,Yugoslavia,390
+2008,Yugoslavia,390
+2010,Yugoslavia,390
+2012,Yugoslavia,390
+2014,Yugoslavia,390
+2016,Yugoslavia,390
 1896,Zambia ,0
 1900,Zambia ,0
 1904,Zambia ,0
@@ -4954,21 +4954,21 @@ Year,Country,Medal
 1972,Zambia ,0
 1976,Zambia ,0
 1980,Zambia ,0
-1984,Zambia ,0
-1988,Zambia ,0
-1992,Zambia ,0
-1994,Zambia ,0
-1996,Zambia ,1
-1998,Zambia ,1
-2000,Zambia ,1
-2002,Zambia ,1
-2004,Zambia ,1
-2006,Zambia ,1
-2008,Zambia ,1
-2010,Zambia ,1
-2012,Zambia ,1
-2014,Zambia ,1
-2016,Zambia ,1
+1984,Zambia ,1
+1988,Zambia ,1
+1992,Zambia ,1
+1994,Zambia ,1
+1996,Zambia ,2
+1998,Zambia ,2
+2000,Zambia ,2
+2002,Zambia ,2
+2004,Zambia ,2
+2006,Zambia ,2
+2008,Zambia ,2
+2010,Zambia ,2
+2012,Zambia ,2
+2014,Zambia ,2
+2016,Zambia ,2
 1896,Zimbabwe ,0
 1900,Zimbabwe ,0
 1904,Zimbabwe ,0
