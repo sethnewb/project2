@@ -62,50 +62,56 @@ def medals():
 
     return medal_data.to_json(orient='records')
     
-#  API route for Connected Scatter Plot 
+#  API route for Athlete build line graphs (simple version)
 # @app.route("/buildAll/<build>")
 # def buildAll(build):
 #     con = sqlite3.connect('db/olympic_data.db')
-#     # ?? calling data from table in db, but does {} refer to drop down?
 #     sql = f"""
-#         SELECT * FROM athlete_build_avg;
+#         SELECT * FROM male_athlete_mean_df_waterpolo;
 #         """
-#     athlete_build_avg = pd.read_sql(sql, con)
-#     # Somehow I need to define which dropdown menu choice relates to which data choice
-#     sel = [
-#         athlete_build_avg.Sport,
-#         athlete_build_avg.Year,
-#         athlete_build_avg.avg_height_M,
-#         athlete_build_avg.avg_weight_M,
-#         athlete_build_avg.avg_height_F,
-#         athlete_build_avg.avg_weight_F
-#     ]
-    
-#     results = db.session.query(*sel).filter(athlete_build_avg.build == build).all()
-    
-#     # Create dictionary for infor from dropdown menu
-#     athletic_build_data = {}
-#     for result in results:
-#         athlete_build_avg["Sport"] = result[0]
-#         athlete_build_avg["Year"] = result[1]
-#         athlete_build_avg["avg_height_M"] = result[2]
-#         athlete_build_avg["avg_weight_M"] = result[3]
-#         athlete_build_avg["avg_height_F"] = result[4]
-#         athlete_build_avg["avg_weight_F"] = result[5]
+#     male_waterpolo = pd.read_sql(sql, con)
+#     return male_waterpolo.to_json(orient='records')
 
-#     print(athletic_build_data)
-#     return jsonify(athletic_build_data)
-
+#  API route for Athlete build line graphs (some sports, medium version)
 @app.route("/buildAll/<build>")
 def buildAll(build):
     con = sqlite3.connect('db/olympic_data.db')
-    sql = f"""
+    
+    # Define which data to pull with each dropdown menu choice
+    columns = ["Sport", "Year"]
+    if build == "femaleHeight":
+        sql = f"""
+        SELECT * FROM female_athlete_mean_df_gymnast;
+        """
+        athlete_build_avg = pd.read_sql(sql, con)
+        columns.append("avg_height")
+
+    elif build == "femaleWeight":
+        sql = f"""
+        SELECT * FROM female_athlete_mean_df_gymnast;
+        """
+        athlete_build_avg = pd.read_sql(sql, con)
+        columns.append("avg_weight")
+    elif build == "maleHeight":
+        sql = f"""
         SELECT * FROM male_athlete_mean_df_waterpolo;
         """
-    male_waterpolo = pd.read_sql(sql, con)
-    return male_waterpolo.to_json(orient='records')
+        athlete_build_avg = pd.read_sql(sql, con)
+        columns.append("avg_height")
+    else: #maleWeight
+        sql = f"""
+        SELECT * FROM male_athlete_mean_df_waterpolo;
+        """
+        athlete_build_avg = pd.read_sql(sql, con)
+        columns.append("avg_weight")
+    #Drops to database down to just the three columns in this list, columns
+    athlete_build_avg = athlete_build_avg[columns]
+    # Rename columns to that last column is called "Build" no matter which data is called
+    athlete_build_avg.columns = ["Sport", "Year", "Build"]
+    return athlete_build_avg.to_json(orient = 'records')
 
 
+#  API route for Athlete build line graphs (all sports, complex version)
 # @app.route("/buildAll/<build>")
 # def buildAll(build):
 #     con = sqlite3.connect('db/olympic_data.db')
@@ -116,13 +122,13 @@ def buildAll(build):
 #     # Define which data to pull with each dropdown menu choice
 #     columns = ["Sport", "Year"]
 #     if build == "femaleHeight":
-#         columns.append("avg_height_F")
+#         columns.append("avg_height")
 #     elif build == "femaleWeight":
-#         columns.append("avg_weight_F")
+#         columns.append("avg_weight")
 #     elif build == "maleHeight":
-#         columns.append("avg_height_M")
+#         columns.append("avg_height")
 #     else: #maleWeight
-#         columns.append("avg_weight_M")
+#         columns.append("avg_weight")
 #     #Drops to database down to just the three columns in this list, columns
 #     athlete_build_avg = athlete_build_avg[columns]
 #     # Rename columns to that last column is called "Build" no matter which data is called

@@ -22,12 +22,12 @@ function buildConnectedScatter(build) {
 
     //Read the data
     
+    
     // Add X axis --> year
     var parseTime = d3.timeParse("%Y");
     bodyData.forEach(function(d) {
         d.date = parseTime(d.Year);
-        console.log(d.date);
-        // d.close = +d.close;
+        // console.log(d.date);
     });
     var x = d3.scaleTime()
       .domain([bodyData[0].date, bodyData[bodyData.length-1].date])
@@ -40,21 +40,22 @@ function buildConnectedScatter(build) {
     var minHeight =100000;
     var maxHeight = -1;
     bodyData.forEach(function(d) {
-      if (d.avg_height > maxHeight) {
-        maxHeight = d.avg_height;
+      if (d.Build > maxHeight) {
+        maxHeight = d.Build;
       }
-      if (d.avg_height < minHeight) {
-        minHeight = d.avg_height;
+      if (d.Build < minHeight) {
+        minHeight = d.Build;
       }
     });
-    console.log([minHeight, maxHeight]);
 
     var y = d3.scaleLinear()
       .domain([minHeight-0.1*minHeight, maxHeight+0.1*maxHeight])
       .range([ height, 0 ]);
-
       svg.append("g")
       .call(d3.axisLeft(y));
+      console.log("minHeight, maxHeight: ");
+      console.log([minHeight, maxHeight]);
+
     // Add the line
     svg.append("path")
       .data(bodyData)
@@ -63,7 +64,7 @@ function buildConnectedScatter(build) {
       .attr("stroke-width", 30)
       .attr("d", d3.line()
           .x(function(d) { return x(d.date) })
-          .y(function(d) { return y(d.avg_height) })
+          .y(function(d) { return y(d.Build) })
           );
       // .on("mouseover", function(d) {   
       //     d3.select(this).attr("stroke-width", 30)
@@ -90,13 +91,13 @@ function buildConnectedScatter(build) {
       .enter()
       .append("circle")
           .attr("cx", function(d) { return x(d.date) } )
-          .attr("cy", function(d) { return y(d.avg_height) } )
+          .attr("cy", function(d) { return y(d.Build) } )
           .attr("r", 2)
-          .attr("fill", "#9eb6c1")
+          .attr("fill", "#031d5e")
   })
 }
 
-
+// #031d5e bright blue, #9eb6c1 subtle blue
 // function for when the athletic build drop down menu changes
 function buildChanged(build) {
   buildConnectedScatter(build);

@@ -5,7 +5,7 @@
 d3.json("/medals").then( data => {
   
   // Console log the data to see what it looks like
-  console.log(data);
+  // console.log(data);
 
   // Creating a lookup table, sorting by year and country
   var lookup = {};
@@ -87,7 +87,7 @@ d3.json("/medals").then( data => {
   }
 
   // Test what the frames look like
-  console.log(frames);
+  // console.log(frames);
 
   // Create sliders - one for each frame
   var sliderSteps = [];
