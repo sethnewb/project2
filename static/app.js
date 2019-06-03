@@ -97,8 +97,8 @@ d3.json("/medals").then( data => {
       label: years[i],
       args: [[years[i]], {
         mode: 'immediate',
-        transition: {duration: 1},
-        frame: {duration: 1, redraw: false},
+        transition: {duration: 0.5},
+        frame: {duration: 0.5, redraw: false},
       }]
     });
   }
@@ -139,8 +139,8 @@ d3.json("/medals").then( data => {
         args: [null, {
           mode: 'immediate',
           fromcurrent: true,
-          transition: {duration: 300},
-          frame: {duration: 500, redraw: true}
+          transition: {duration: 150},
+          frame: {duration: 250, redraw: true}
         }],
         label: 'Play'
       }, {
