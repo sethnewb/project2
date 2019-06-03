@@ -110,18 +110,19 @@
 
     <section class="resume-section p-3 p-lg-5 align-items-center" id="viz2">
       <div class="w-100">
-        <h2 class="mb-5">Changes In Olympic Athletic Build Over Time</h2>
+        <h2 class="mb-5">Changes In Olympic Athletic Build Over Time:</h2>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div class="resume-content">
-            <h3 class="mb-0">Select for the trend of interest:</h3>
+            <h3 class="mb-0">Select for the trend of interest:</h3><br>
+
             <div class="container">
               <t>Select Athletic Build Characteristic:  </t><br><br>
               <select id="selBuild" onchange="buildChanged(this.value)">
-                <option value="femaleHeight">Female Height</option>
-                <option value="femaleWeight">Female Weight</option>
-                <option value="maleHeight">Male Height</option>
-                <option value="maleWeight">Male Weight</option>
+                <option value="femaleHeight">Female Height in Gymnastics</option>
+                <option value="femaleWeight">Female Weight in Gymnastics</option>
+                <option value="maleHeight">Male Height in Water Polo</option>
+                <option value="maleWeight">Male Weight in Water Polo</option>
               </select>
               <div class="row">
             <div class="container-fluid" id="connected_scatter"></div>

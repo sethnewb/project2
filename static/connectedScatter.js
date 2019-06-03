@@ -1,29 +1,43 @@
 // scatter plot function for athletic build all sports
+var connectedScatterInitialized = false;
+var svg; 
+
 function buildConnectedScatter(build) {
+  if (!connectedScatterInitialized)
+    svg = initSVG(); 
+  
+  var margin = {top: 10, right: 30, bottom: 30, left: 60},
+  width = 460 - margin.left - margin.right,
+  height = 400 - margin.top - margin.bottom;
+
+  svg.remove();
+  svg = d3.select("#connected_scatter")
+    .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom);
+
+  svg.append("g")
+    .attr("transform",
+        "translate(" + margin.left + "," + margin.top + ")");
+
+
+
   console.log(`/buildAll/${build}`);
   var athleteBuild = `/buildAll/${build}`;
-  d3.selectAll("svg > *").remove();
   d3.json(athleteBuild).then(function(bodyData) {
+
     // set the dimensions and margins of the graph
     console.log("bodyData") 
     console.log(bodyData) 
-    var margin = {top: 10, right: 30, bottom: 30, left: 60},
-         width = 460 - margin.left - margin.right,
-         height = 400 - margin.top - margin.bottom;
      // append the svg object to the body of the page
-     var svg = d3.select("#connected_scatter")
-         .append("svg")
-             .attr("width", width + margin.left + margin.right)
-             .attr("height", height + margin.top + margin.bottom)
-         .append("g")
-             .attr("transform",
-                 "translate(" + margin.left + "," + margin.top + ")");
-
+     
+    
 
     //Read the data
     
     
     // Add X axis --> year
+
     var parseTime = d3.timeParse("%Y");
     bodyData.forEach(function(d) {
         d.date = parseTime(d.Year);
@@ -111,8 +125,23 @@ function buildChanged(build) {
 function init() {
   // build scatter plot with  drop down menu change
   // will it autopopulate with the first choice automatically or do I need another function for that?
+  
+  
   var selectedBuild = d3.select("#selBuild").node().value;
   buildConnectedScatter(selectedBuild)
+}
+
+function initSVG() {
+  var margin = {top: 10, right: 30, bottom: 30, left: 60},
+         width = 460 - margin.left - margin.right,
+         height = 400 - margin.top - margin.bottom;
+  var svg = d3.select("#connected_scatter")
+         .append("svg")
+             .attr("width", width + margin.left + margin.right)
+             .attr("height", height + margin.top + margin.bottom);
+
+  connectedScatterInitialized = true;
+  return svg;
 }
 
 
